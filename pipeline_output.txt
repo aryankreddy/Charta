@@ -1,0 +1,122 @@
+🚀 STARTING TOTAL DATA CAPTURE PIPELINE
+Loading Seed File: /Users/nageshkothacheruvu/Charta_Health/charta-gtm-intelligence/data/curated/clinics_seed.csv
+   Initial Seed Count: 1,427,529
+
+================================================================================
+ 1. INTEGRATING PHYSICIAN UTILIZATION (WITH BRIDGE)
+================================================================================
+   Loading /Users/nageshkothacheruvu/Charta_Health/charta-gtm-intelligence/data/curated/staging/stg_physician_util.parquet...
+   Loading PECOS Reassignment Bridge...
+   Loading Enrollment Map...
+   Loading Reassignment Map...
+   ✅ Built Bridge: 3,303,011 links (Indiv -> Org)
+   Applying Bridge Logic (Roll-up)...
+   Mapped 2,112,019 utilization records to organizations.
+   Util Columns before agg: ['npi', 'services_count', 'allowed_amt', 'bene_count', 'indiv_npi', 'org_npi']
+   Aggregating using Volume: line_srvc_cnt, Revenue: allowed_amt
+   Aggregated into 175,396 unique organizations.
+   Merging 175,396 records...
+   ✅ Matched 163,522 clinics with Real Volume/Revenue.
+
+================================================================================
+ 1B. INTEGRATING UNDERCODING METRICS
+================================================================================
+   Loading /Users/nageshkothacheruvu/Charta_Health/charta-gtm-intelligence/data/curated/staging/stg_undercoding_metrics.csv...
+   Merging 113,905 undercoding records...
+   ✅ Matched 104,734 clinics with Undercoding Metrics.
+   🚨 28,311 clinics show severe undercoding (< 0.30).
+
+================================================================================
+ 2. INTEGRATING FQHC COST REPORTS
+================================================================================
+   Loading /Users/nageshkothacheruvu/Charta_Health/charta-gtm-intelligence/data/curated/staging/fqhc_enriched_2024.csv...
+   ⚠️  NPI not found in FQHC data. All FQHCs are candidates for Name Matching.
+   Attempting Name Match for unmatched FQHCs...
+   Loading Alpha File: /Users/nageshkothacheruvu/Charta_Health/charta-gtm-intelligence/data/raw/cost_reports_fqhc/FQHC14-ALL-YEARS (1)/FQHC14_2024_alpha.csv...
+   Found names for 871 unmatched FQHCs.
+   Found 258 name matches.
+   ✅ Matched 640 FQHCs by Name.
+
+================================================================================
+ 3. INTEGRATING HOSPITAL COST REPORTS (SAS)
+================================================================================
+   Loading SAS file: /Users/nageshkothacheruvu/Charta_Health/charta-gtm-intelligence/data/raw/cost_reports_hospitals/hosp10-sas /prds_hosp10_yr2024.sas7bdat...
+   ✅ Loaded 3,821 hospital records
+   Found 3,770 hospitals with financial data
+   Loading CCN-to-NPI Crosswalk...
+   ✅ Found crosswalk file: /Users/nageshkothacheruvu/Charta_Health/charta-gtm-intelligence/data/raw/crosswalk_npi2ccn_one2many_updated_20240429.csv
+   Loaded 61,634 total links
+   Filtered to 61,483 active links (since 2023-01-01)
+   Deduplicated to 60,221 unique CCN-to-NPI mappings
+   Facility types:
+     - snf: 14,887
+     - homehealth: 12,195
+     - fqhc: 10,231
+     - hospital: 10,208
+     - hospice: 7,319
+   Mapped 3,687 hospitals to NPIs via crosswalk
+   ✅ Matched 2,423 Hospitals via CCN-to-NPI (Exact)
+   Saved hospital data to: /Users/nageshkothacheruvu/Charta_Health/charta-gtm-intelligence/data/curated/staging/stg_hospital_sas_2024.csv
+
+================================================================================
+ 3B. INTEGRATING HOME HEALTH AGENCY COST REPORTS
+================================================================================
+   Loading HHA file: /Users/nageshkothacheruvu/Charta_Health/charta-gtm-intelligence/data/raw/cost_reports_hha/HHA20-REPORTS (1)/CostReporthha_Final_23.csv...
+   ✅ Loaded 10,715 HHA records
+   Found 7,360 HHAs with financial data
+   Loading CCN-to-NPI Crosswalk...
+   ✅ Found crosswalk file: /Users/nageshkothacheruvu/Charta_Health/charta-gtm-intelligence/data/raw/crosswalk_npi2ccn_one2many_updated_20240429.csv
+   Loaded 61,634 total links
+   Filtered to 61,483 active links (since 2023-01-01)
+   Deduplicated to 60,221 unique CCN-to-NPI mappings
+   Facility types:
+     - snf: 14,887
+     - homehealth: 12,195
+     - fqhc: 10,231
+     - hospital: 10,208
+     - hospice: 7,319
+   Attempting CCN-to-NPI exact match...
+   Mapped 5,964 HHAs to NPIs via crosswalk
+   ✅ Matched 4,868 HHAs via CCN-to-NPI (Exact)
+   Attempting Name Match for unmatched HHAs...
+   Found 1,371 name matches
+   ✅ Matched 4,496 HHAs by Name (Fuzzy)
+   📊 Total HHA Matches: 9,364 (Exact: 4,868, Fuzzy: 4,496)
+   Saved HHA data to: /Users/nageshkothacheruvu/Charta_Health/charta-gtm-intelligence/data/curated/staging/stg_hha_2023.csv
+
+================================================================================
+ 4. INTEGRATING ACO & STRATEGIC DATA
+================================================================================
+   Loading ACO data from /Users/nageshkothacheruvu/Charta_Health/charta-gtm-intelligence/data/curated/staging/stg_aco_orgs.parquet...
+   ⚠️  ACO file missing org_name column.
+   Loading HRSA data from /Users/nageshkothacheruvu/Charta_Health/charta-gtm-intelligence/data/curated/staging/stg_hrsa_sites.parquet...
+   Matching 1 HRSA orgs by name...
+   ✅ Identified 41 HRSA sites (FQHCs).
+
+================================================================================
+ 5. APPLYING HIERARCHY OF TRUTH & SCORING
+================================================================================
+
+================================================================================
+ SAVING RESULTS
+================================================================================
+   Saved to: /Users/nageshkothacheruvu/Charta_Health/charta-gtm-intelligence/data/curated/clinics_enriched_scored.csv
+
+================================================================================
+ DATA CAPTURE REPORT
+================================================================================
+Total Clinics: 1,427,569
+
+1. REAL FINANCIALS (Cost Reports)
+   - FQHC Matches: 640 (Fill Rate: 0.0%)
+
+2. REAL VOLUME (Utilization/HRSA)
+   - Verified Volume: 163,526 (Fill Rate: 11.5%)
+
+3. STRATEGIC SIGNALS
+   - ACO Participants: 0
+
+4. SCORING IMPACT
+   - Tier 2: 684
+   - Tier 3: 115,399
+   - Tier 4: 1,311,486

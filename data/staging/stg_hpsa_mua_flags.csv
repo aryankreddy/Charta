@@ -1,0 +1,3195 @@
+state,county_name,is_hpsa,is_mua
+AK,Aleutians East Borough,True,True
+AK,Aleutians West Census Area,True,True
+AK,Anchorage Borough,True,True
+AK,Bethel Census Area,True,True
+AK,Bristol Bay Borough,True,True
+AK,Chugach Census Area,True,False
+AK,Copper River Census Area,True,False
+AK,Denali Borough,True,True
+AK,Dillingham Census Area,True,True
+AK,Fairbanks North Star Borough,True,True
+AK,Haines Borough,True,True
+AK,Hoonah-Angoon Census Area,True,True
+AK,Juneau Borough,True,True
+AK,Kenai Peninsula Borough,True,True
+AK,Ketchikan Gateway Borough,True,True
+AK,Kodiak Island Borough,True,True
+AK,Kusilvak Census Area,True,True
+AK,Lake And Peninsula Borough,True,True
+AK,Matanuska-Susitna Borough,True,True
+AK,Nome Census Area,True,True
+AK,North Slope Borough,True,True
+AK,Northwest Arctic Borough,True,True
+AK,Not Determined,True,False
+AK,Petersburg Borough,True,False
+AK,Prince Of Wales-Hyder Census Area,True,True
+AK,Sitka Borough,True,False
+AK,Skagway Municipality,True,True
+AK,Southeast Fairbanks Census Area,True,True
+AK,Valdez-Cordova Census Area,True,False
+AK,Wrangell City And Borough,True,True
+AK,Yakutat Borough,True,True
+AK,Yukon-Koyukuk Census Area,True,True
+AL,Autauga,True,True
+AL,Baldwin,False,True
+AL,Barbour,True,True
+AL,Bibb,True,True
+AL,Blount,True,True
+AL,Bullock,True,True
+AL,Butler,True,True
+AL,Calhoun,True,True
+AL,Chambers,True,True
+AL,Cherokee,True,True
+AL,Chilton,False,True
+AL,Choctaw,True,True
+AL,Clarke,True,True
+AL,Clay,True,True
+AL,Cleburne,True,True
+AL,Coffee,True,True
+AL,Colbert,True,True
+AL,Conecuh,True,True
+AL,Coosa,True,True
+AL,Covington,False,True
+AL,Crenshaw,True,True
+AL,Cullman,True,True
+AL,Dale,True,True
+AL,Dallas,True,True
+AL,Dekalb,True,True
+AL,Elmore,True,True
+AL,Escambia,True,True
+AL,Etowah,True,True
+AL,Fayette,True,True
+AL,Franklin,True,True
+AL,Geneva,True,True
+AL,Greene,True,True
+AL,Hale,True,True
+AL,Henry,True,True
+AL,Houston,False,True
+AL,Jackson,True,True
+AL,Jefferson,True,True
+AL,Lamar,True,True
+AL,Lauderdale,True,True
+AL,Lawrence,True,True
+AL,Lee,True,True
+AL,Limestone,False,True
+AL,Lowndes,True,True
+AL,Macon,True,True
+AL,Madison,True,True
+AL,Marengo,True,True
+AL,Marion,True,True
+AL,Marshall,True,True
+AL,Mobile,True,True
+AL,Monroe,True,True
+AL,Montgomery,True,True
+AL,Morgan,True,True
+AL,Perry,False,True
+AL,Pickens,True,True
+AL,Pike,True,True
+AL,Randolph,True,True
+AL,Russell,True,True
+AL,Shelby,False,True
+AL,St. Clair,False,True
+AL,Sumter,True,True
+AL,Talladega,True,True
+AL,Tallapoosa,True,True
+AL,Tuscaloosa,True,True
+AL,Walker,True,True
+AL,Washington,True,True
+AL,Wilcox,True,True
+AL,Winston,False,True
+AR,Arkansas,True,True
+AR,Ashley,True,True
+AR,Baxter,True,True
+AR,Benton,True,True
+AR,Boone,True,False
+AR,Bradley,False,True
+AR,Calhoun,True,True
+AR,Carroll,True,True
+AR,Chicot,True,True
+AR,Clark,True,True
+AR,Clay,True,True
+AR,Cleburne,True,True
+AR,Cleveland,True,True
+AR,Columbia,True,True
+AR,Conway,False,True
+AR,Craighead,True,True
+AR,Crawford,True,True
+AR,Crittenden,True,True
+AR,Cross,True,True
+AR,Dallas,True,True
+AR,Desha,True,True
+AR,Drew,True,True
+AR,Faulkner,True,True
+AR,Franklin,True,True
+AR,Fulton,True,True
+AR,Garland,False,True
+AR,Grant,True,False
+AR,Greene,True,True
+AR,Hempstead,True,True
+AR,Hot Spring,True,True
+AR,Howard,True,True
+AR,Independence,True,True
+AR,Izard,True,True
+AR,Jackson,True,True
+AR,Jefferson,True,True
+AR,Johnson,True,True
+AR,Lafayette,True,True
+AR,Lawrence,True,True
+AR,Lee,True,True
+AR,Lincoln,True,True
+AR,Little River,True,True
+AR,Logan,True,True
+AR,Lonoke,True,True
+AR,Madison,True,True
+AR,Marion,True,True
+AR,Miller,True,True
+AR,Mississippi,True,True
+AR,Monroe,True,True
+AR,Montgomery,True,True
+AR,Nevada,True,True
+AR,Newton,True,True
+AR,Ouachita,True,True
+AR,Perry,True,True
+AR,Phillips,True,True
+AR,Pike,True,True
+AR,Poinsett,True,True
+AR,Polk,True,True
+AR,Pope,True,True
+AR,Prairie,True,True
+AR,Pulaski,True,True
+AR,Randolph,False,True
+AR,Saline,False,True
+AR,Scott,True,True
+AR,Searcy,True,True
+AR,Sebastian,True,True
+AR,Sevier,True,True
+AR,Sharp,True,True
+AR,St. Francis,True,True
+AR,Stone,True,True
+AR,Union,True,True
+AR,Van Buren,True,True
+AR,Washington,True,True
+AR,White,True,True
+AR,Woodruff,True,True
+AR,Yell,True,True
+AS,Eastern District,True,True
+AS,Manu'A District,True,True
+AS,Rose Island,True,True
+AS,Swains Island,True,True
+AS,Western District,True,True
+AZ,Apache,True,True
+AZ,Cochise,True,True
+AZ,Coconino,True,True
+AZ,Gila,True,True
+AZ,Graham,True,True
+AZ,Greenlee,True,True
+AZ,La Paz,True,True
+AZ,Maricopa,True,True
+AZ,Mohave,True,True
+AZ,Navajo,True,True
+AZ,Pima,True,True
+AZ,Pinal,True,True
+AZ,Santa Cruz,True,True
+AZ,Yavapai,True,True
+AZ,Yuma,True,True
+CA,Alameda,True,True
+CA,Alpine,True,False
+CA,Amador,True,True
+CA,Butte,True,True
+CA,Calaveras,True,False
+CA,Colusa,True,False
+CA,Contra Costa,True,True
+CA,Del Norte,True,True
+CA,El Dorado,True,True
+CA,Fresno,True,True
+CA,Glenn,True,True
+CA,Humboldt,True,True
+CA,Imperial,True,True
+CA,Inyo,True,True
+CA,Kern,True,True
+CA,Kings,True,True
+CA,Lake,True,True
+CA,Lassen,True,True
+CA,Los Angeles,True,True
+CA,Madera,True,True
+CA,Marin,True,True
+CA,Mariposa,True,True
+CA,Mendocino,True,True
+CA,Merced,True,True
+CA,Modoc,True,True
+CA,Mono,True,False
+CA,Monterey,True,True
+CA,Napa,True,True
+CA,Nevada,True,True
+CA,Orange,True,True
+CA,Placer,True,False
+CA,Plumas,True,True
+CA,Riverside,True,True
+CA,Sacramento,True,True
+CA,San Benito,True,True
+CA,San Bernardino,True,True
+CA,San Diego,True,True
+CA,San Francisco,True,True
+CA,San Joaquin,True,True
+CA,San Luis Obispo,True,True
+CA,San Mateo,True,True
+CA,Santa Barbara,True,True
+CA,Santa Clara,True,True
+CA,Santa Cruz,True,True
+CA,Shasta,True,True
+CA,Sierra,True,True
+CA,Siskiyou,True,True
+CA,Solano,True,True
+CA,Sonoma,True,True
+CA,Stanislaus,True,True
+CA,Sutter,True,True
+CA,Tehama,True,True
+CA,Trinity,True,True
+CA,Tulare,True,True
+CA,Tuolumne,True,True
+CA,Ventura,True,True
+CA,Yolo,True,True
+CA,Yuba,True,True
+CO,Adams,True,True
+CO,Alamosa,True,True
+CO,Arapahoe,True,True
+CO,Archuleta,True,True
+CO,Baca,True,False
+CO,Bent,True,True
+CO,Boulder,True,True
+CO,Chaffee,True,False
+CO,Cheyenne,True,True
+CO,Clear Creek,True,True
+CO,Conejos,True,True
+CO,Costilla,True,True
+CO,Crowley,True,True
+CO,Custer,True,True
+CO,Delta,True,True
+CO,Denver,True,True
+CO,Dolores,True,True
+CO,Eagle,False,True
+CO,El Paso,True,True
+CO,Elbert,True,True
+CO,Fremont,True,True
+CO,Garfield,True,True
+CO,Gilpin,True,True
+CO,Grand,True,True
+CO,Gunnison,True,False
+CO,Hinsdale,True,True
+CO,Huerfano,True,False
+CO,Jackson,True,True
+CO,Jefferson,True,True
+CO,Kiowa,True,False
+CO,Kit Carson,True,False
+CO,La Plata,True,True
+CO,Lake,True,False
+CO,Larimer,True,True
+CO,Las Animas,True,True
+CO,Lincoln,True,True
+CO,Logan,True,True
+CO,Mesa,True,True
+CO,Mineral,True,False
+CO,Moffat,True,True
+CO,Montezuma,True,True
+CO,Montrose,True,True
+CO,Morgan,True,True
+CO,Not Determined,True,False
+CO,Otero,True,True
+CO,Ouray,False,True
+CO,Park,True,True
+CO,Phillips,True,True
+CO,Prowers,True,True
+CO,Pueblo,True,True
+CO,Rio Grande,True,True
+CO,Routt,True,True
+CO,Saguache,True,True
+CO,San Juan,True,True
+CO,San Miguel,True,True
+CO,Sedgwick,True,True
+CO,Summit,True,True
+CO,Teller,False,True
+CO,Washington,True,True
+CO,Weld,True,True
+CO,Yuma,True,True
+CT,Capitol Planning Region,True,False
+CT,Fairfield,True,True
+CT,Greater Bridgeport Planning Region,True,False
+CT,Hartford,True,True
+CT,Litchfield,False,True
+CT,Lower Connecticut River Valley Planning Region,True,False
+CT,Middlesex,False,True
+CT,Naugatuck Valley Planning Region,True,False
+CT,New Haven,True,True
+CT,New London,True,True
+CT,Northeastern Connecticut Planning Region,True,False
+CT,Northwest Hills Planning Region,True,False
+CT,Not Determined,True,False
+CT,South Central Connecticut Planning Region,True,False
+CT,Southeastern Connecticut Planning Region,True,False
+CT,Tolland,False,True
+CT,Western Connecticut Planning Region,True,False
+CT,Windham,True,True
+DC,District Of Columbia,True,True
+DE,Kent,True,True
+DE,New Castle,True,True
+DE,Sussex,True,True
+FL,Alachua,True,True
+FL,Baker,True,True
+FL,Bay,True,True
+FL,Bradford,True,True
+FL,Brevard,True,True
+FL,Broward,True,True
+FL,Calhoun,True,True
+FL,Charlotte,True,True
+FL,Citrus,True,True
+FL,Clay,True,True
+FL,Collier,True,True
+FL,Columbia,True,True
+FL,Desoto,True,True
+FL,Dixie,True,True
+FL,Duval,True,True
+FL,Escambia,True,True
+FL,Flagler,False,True
+FL,Franklin,True,True
+FL,Gadsden,True,True
+FL,Gilchrist,True,True
+FL,Glades,True,True
+FL,Gulf,True,True
+FL,Hamilton,True,True
+FL,Hardee,True,True
+FL,Hendry,True,True
+FL,Hernando,True,True
+FL,Highlands,True,True
+FL,Hillsborough,True,True
+FL,Holmes,True,True
+FL,Indian River,True,True
+FL,Jackson,True,True
+FL,Jefferson,True,True
+FL,Lafayette,True,True
+FL,Lake,True,True
+FL,Lee,True,True
+FL,Leon,True,True
+FL,Levy,True,True
+FL,Liberty,True,True
+FL,Madison,True,True
+FL,Manatee,True,True
+FL,Marion,True,True
+FL,Martin,True,True
+FL,Miami-Dade,True,True
+FL,Monroe,True,True
+FL,Nassau,True,True
+FL,Not Determined,True,False
+FL,Okaloosa,True,True
+FL,Okeechobee,True,True
+FL,Orange,True,True
+FL,Osceola,True,True
+FL,Palm Beach,True,True
+FL,Pasco,True,True
+FL,Pinellas,True,True
+FL,Polk,True,True
+FL,Putnam,True,True
+FL,Santa Rosa,True,True
+FL,Sarasota,True,True
+FL,Seminole,True,True
+FL,St. Johns,True,True
+FL,St. Lucie,True,True
+FL,Sumter,True,True
+FL,Suwannee,True,True
+FL,Taylor,True,True
+FL,Union,True,True
+FL,Volusia,True,True
+FL,Wakulla,True,True
+FL,Walton,True,True
+FL,Washington,True,True
+FM,Chuuk State,True,True
+FM,Kosrae State,True,True
+FM,Pohnpei State,True,True
+FM,Yap State,True,True
+GA,Appling,False,True
+GA,Atkinson,True,True
+GA,Bacon,True,True
+GA,Baker,True,True
+GA,Baldwin,True,True
+GA,Banks,True,True
+GA,Bartow,False,True
+GA,Ben Hill,True,True
+GA,Berrien,True,True
+GA,Bibb,True,True
+GA,Bleckley,False,True
+GA,Brantley,True,True
+GA,Brooks,True,True
+GA,Bryan,False,True
+GA,Bulloch,False,True
+GA,Burke,False,True
+GA,Butts,True,True
+GA,Calhoun,True,True
+GA,Camden,False,True
+GA,Candler,True,True
+GA,Carroll,False,True
+GA,Catoosa,True,True
+GA,Charlton,False,True
+GA,Chatham,True,True
+GA,Chattooga,True,True
+GA,Cherokee,False,True
+GA,Clarke,True,True
+GA,Clay,False,True
+GA,Clayton,False,True
+GA,Clinch,True,True
+GA,Cobb,True,True
+GA,Coffee,True,True
+GA,Colquitt,True,True
+GA,Columbia,False,True
+GA,Cook,False,True
+GA,Coweta,False,True
+GA,Crawford,False,True
+GA,Crisp,True,True
+GA,Dade,True,True
+GA,Decatur,True,True
+GA,Dekalb,True,True
+GA,Dodge,True,True
+GA,Dooly,True,True
+GA,Dougherty,True,True
+GA,Early,True,True
+GA,Echols,True,True
+GA,Effingham,False,True
+GA,Elbert,True,True
+GA,Emanuel,True,True
+GA,Evans,False,True
+GA,Fannin,True,True
+GA,Floyd,True,True
+GA,Forsyth,True,True
+GA,Franklin,True,True
+GA,Fulton,True,True
+GA,Gilmer,True,True
+GA,Glascock,False,True
+GA,Glynn,True,True
+GA,Gordon,True,True
+GA,Grady,True,True
+GA,Greene,True,True
+GA,Gwinnett,True,True
+GA,Habersham,True,True
+GA,Hall,False,True
+GA,Hancock,True,True
+GA,Haralson,False,True
+GA,Harris,False,True
+GA,Hart,True,True
+GA,Heard,True,True
+GA,Henry,False,True
+GA,Houston,False,True
+GA,Irwin,True,True
+GA,Jackson,False,True
+GA,Jasper,False,True
+GA,Jeff Davis,True,True
+GA,Jefferson,True,True
+GA,Jenkins,True,True
+GA,Johnson,True,True
+GA,Jones,False,True
+GA,Lamar,False,True
+GA,Lanier,False,True
+GA,Laurens,True,True
+GA,Lee,True,True
+GA,Liberty,True,True
+GA,Lincoln,False,True
+GA,Long,False,True
+GA,Lowndes,True,True
+GA,Lumpkin,True,True
+GA,Macon,True,True
+GA,Madison,True,True
+GA,Marion,True,True
+GA,Mcduffie,True,True
+GA,Mcintosh,True,True
+GA,Meriwether,False,True
+GA,Miller,True,True
+GA,Mitchell,True,True
+GA,Monroe,True,True
+GA,Montgomery,True,True
+GA,Morgan,False,True
+GA,Murray,True,True
+GA,Muscogee,True,True
+GA,Newton,False,True
+GA,Oconee,False,True
+GA,Oglethorpe,False,True
+GA,Peach,True,True
+GA,Pickens,True,True
+GA,Pierce,True,True
+GA,Pike,False,True
+GA,Polk,True,True
+GA,Pulaski,True,True
+GA,Putnam,True,True
+GA,Quitman,True,True
+GA,Rabun,True,True
+GA,Randolph,True,True
+GA,Richmond,True,True
+GA,Rockdale,True,False
+GA,"Russell County, Al",False,True
+GA,Schley,False,True
+GA,Screven,False,True
+GA,Seminole,True,True
+GA,Spalding,True,True
+GA,Stephens,True,False
+GA,Stewart,True,True
+GA,Sumter,True,True
+GA,Talbot,True,True
+GA,Taliaferro,True,True
+GA,Tattnall,True,True
+GA,Taylor,True,True
+GA,Telfair,True,True
+GA,Terrell,False,True
+GA,Thomas,True,True
+GA,Tift,False,True
+GA,Toombs,True,True
+GA,Towns,True,True
+GA,Treutlen,False,True
+GA,Troup,True,True
+GA,Turner,True,True
+GA,Twiggs,True,True
+GA,Union,True,True
+GA,Upson,True,True
+GA,Walker,True,True
+GA,Walton,False,True
+GA,Ware,True,True
+GA,Warren,False,True
+GA,Washington,True,True
+GA,Wayne,True,True
+GA,Webster,True,True
+GA,Wheeler,True,True
+GA,White,False,True
+GA,Whitfield,True,False
+GA,Wilcox,True,True
+GA,Wilkes,False,True
+GA,Wilkinson,True,True
+GA,Worth,True,True
+GU,Guam,True,True
+HI,Hawaii,True,True
+HI,Honolulu,True,True
+HI,Kalawao,False,True
+HI,Kauai,True,True
+HI,Maui,True,True
+IA,Adair,True,True
+IA,Adams,True,True
+IA,Allamakee,True,True
+IA,Appanoose,True,True
+IA,Audubon,True,True
+IA,Benton,True,True
+IA,Black Hawk,True,True
+IA,Boone,False,True
+IA,Bremer,True,True
+IA,Buchanan,True,True
+IA,Buena Vista,True,True
+IA,Butler,True,True
+IA,Calhoun,True,True
+IA,Carroll,False,True
+IA,Cass,True,True
+IA,Cedar,True,True
+IA,Cerro Gordo,True,False
+IA,Cherokee,True,True
+IA,Chickasaw,True,True
+IA,Clarke,False,True
+IA,Clayton,True,True
+IA,Clinton,False,True
+IA,Crawford,True,True
+IA,Dallas,True,False
+IA,Davis,True,False
+IA,Decatur,True,True
+IA,Delaware,True,True
+IA,Des Moines,True,True
+IA,Dubuque,True,True
+IA,Fayette,True,True
+IA,Floyd,True,False
+IA,Franklin,True,True
+IA,Fremont,True,True
+IA,Greene,True,True
+IA,Grundy,False,True
+IA,Guthrie,True,True
+IA,Hamilton,True,True
+IA,Hancock,True,False
+IA,Hardin,False,True
+IA,Harrison,True,True
+IA,Henry,True,True
+IA,Howard,False,True
+IA,Humboldt,False,True
+IA,Ida,True,True
+IA,Iowa,False,True
+IA,Jackson,True,True
+IA,Jasper,True,False
+IA,Jefferson,True,True
+IA,Johnson,True,False
+IA,Jones,True,True
+IA,Keokuk,True,True
+IA,Kossuth,False,True
+IA,Lee,True,True
+IA,Linn,True,True
+IA,Louisa,True,True
+IA,Lucas,True,True
+IA,Lyon,False,True
+IA,Mahaska,True,True
+IA,Marshall,True,True
+IA,Mills,False,True
+IA,Mitchell,True,False
+IA,Monona,True,True
+IA,Monroe,False,True
+IA,Montgomery,True,True
+IA,Muscatine,False,True
+IA,O'Brien,True,True
+IA,Osceola,False,True
+IA,Page,True,False
+IA,Palo Alto,True,True
+IA,Plymouth,False,True
+IA,Pocahontas,False,True
+IA,Polk,True,True
+IA,Pottawattamie,True,True
+IA,Poweshiek,True,True
+IA,Ringgold,False,True
+IA,Sac,True,True
+IA,Scott,True,True
+IA,Shelby,True,True
+IA,Sioux,True,True
+IA,Story,True,True
+IA,Tama,True,True
+IA,Taylor,True,True
+IA,Union,False,True
+IA,Van Buren,True,True
+IA,Wapello,True,True
+IA,Washington,True,False
+IA,Wayne,False,True
+IA,Webster,True,True
+IA,Winnebago,True,True
+IA,Winneshiek,False,True
+IA,Woodbury,True,True
+IA,Worth,False,True
+IA,Wright,True,True
+ID,Ada,True,True
+ID,Adams,True,True
+ID,Bannock,True,True
+ID,Bear Lake,True,False
+ID,Benewah,True,True
+ID,Bingham,True,True
+ID,Boise,True,True
+ID,Bonner,True,True
+ID,Bonneville,True,True
+ID,Boundary,True,True
+ID,Butte,True,True
+ID,Camas,False,True
+ID,Canyon,True,True
+ID,Caribou,True,True
+ID,Cassia,True,False
+ID,Clark,True,True
+ID,Clearwater,True,True
+ID,Custer,True,True
+ID,Elmore,True,True
+ID,Franklin,True,False
+ID,Fremont,True,True
+ID,Gem,False,True
+ID,Gooding,True,True
+ID,Idaho,True,True
+ID,Jefferson,True,True
+ID,Jerome,True,True
+ID,Kootenai,True,True
+ID,Latah,True,True
+ID,Lemhi,True,True
+ID,Lewis,True,True
+ID,Lincoln,True,True
+ID,Madison,True,True
+ID,Minidoka,True,True
+ID,Nez Perce,True,True
+ID,Oneida,True,True
+ID,Owyhee,True,True
+ID,Payette,True,True
+ID,Power,True,False
+ID,Shoshone,True,True
+ID,Teton,True,True
+ID,Twin Falls,True,True
+ID,Valley,True,True
+ID,Washington,True,True
+IL,Adams,True,True
+IL,Alexander,True,True
+IL,Bond,True,True
+IL,Brown,True,True
+IL,Bureau,True,True
+IL,Calhoun,True,True
+IL,Carroll,True,True
+IL,Cass,True,True
+IL,Champaign,True,True
+IL,Christian,True,True
+IL,Clark,True,True
+IL,Clay,True,True
+IL,Clinton,True,True
+IL,Coles,True,True
+IL,Cook,True,True
+IL,Crawford,True,False
+IL,Cumberland,False,True
+IL,De Witt,True,True
+IL,Dekalb,True,True
+IL,Dupage,True,True
+IL,Edgar,False,True
+IL,Edwards,True,True
+IL,Effingham,True,True
+IL,Fayette,True,True
+IL,Ford,True,False
+IL,Franklin,True,True
+IL,Fulton,True,True
+IL,Gallatin,True,True
+IL,Greene,True,True
+IL,Hamilton,True,True
+IL,Hancock,True,True
+IL,Hardin,True,True
+IL,Henderson,True,True
+IL,Henry,True,True
+IL,Iroquois,True,True
+IL,Jackson,True,True
+IL,Jasper,False,True
+IL,Jefferson,True,True
+IL,Jersey,True,True
+IL,Jo Daviess,False,True
+IL,Johnson,True,True
+IL,Kane,True,True
+IL,Kankakee,True,True
+IL,Knox,True,True
+IL,La Salle,True,False
+IL,Lake,True,True
+IL,Lawrence,True,True
+IL,Lee,True,True
+IL,Livingston,True,True
+IL,Logan,True,True
+IL,Macon,True,True
+IL,Macoupin,True,True
+IL,Madison,False,True
+IL,Marion,True,True
+IL,Marshall,True,True
+IL,Mason,True,True
+IL,Massac,True,True
+IL,Mcdonough,True,True
+IL,Mchenry,False,True
+IL,Mclean,True,True
+IL,Menard,False,True
+IL,Mercer,True,True
+IL,Monroe,False,True
+IL,Montgomery,True,True
+IL,Morgan,True,True
+IL,Ogle,True,True
+IL,Peoria,True,True
+IL,Perry,True,True
+IL,Pike,True,True
+IL,Pope,True,True
+IL,Pulaski,True,True
+IL,Putnam,True,False
+IL,Randolph,True,False
+IL,Richland,True,True
+IL,Rock Island,True,True
+IL,Saline,True,True
+IL,Sangamon,True,True
+IL,Schuyler,True,True
+IL,Scott,True,True
+IL,Shelby,True,True
+IL,St. Clair,True,True
+IL,Stark,True,True
+IL,Stephenson,False,True
+IL,Tazewell,True,False
+IL,Union,True,True
+IL,Vermilion,True,True
+IL,Wabash,True,True
+IL,Warren,True,True
+IL,Washington,True,True
+IL,Wayne,True,True
+IL,White,True,True
+IL,Whiteside,True,True
+IL,Will,True,True
+IL,Williamson,True,True
+IL,Winnebago,True,True
+IL,Woodford,True,False
+IN,Adams,True,True
+IN,Allen,True,True
+IN,Bartholomew,False,True
+IN,Blackford,True,True
+IN,Brown,False,True
+IN,Carroll,False,True
+IN,Cass,True,True
+IN,Clark,True,True
+IN,Clay,True,True
+IN,Clinton,True,False
+IN,Crawford,True,True
+IN,Daviess,True,True
+IN,Decatur,True,True
+IN,Delaware,True,True
+IN,Elkhart,True,True
+IN,Fayette,True,True
+IN,Floyd,False,True
+IN,Fountain,True,True
+IN,Franklin,True,True
+IN,Fulton,True,True
+IN,Gibson,True,True
+IN,Grant,True,True
+IN,Greene,True,True
+IN,Hamilton,True,False
+IN,Hendricks,True,False
+IN,Henry,True,True
+IN,Howard,True,True
+IN,Huntington,False,True
+IN,Jackson,False,True
+IN,Jay,True,True
+IN,Jefferson,True,True
+IN,Jennings,True,False
+IN,Johnson,True,True
+IN,Knox,True,True
+IN,Kosciusko,True,True
+IN,La Porte,True,True
+IN,Lagrange,True,False
+IN,Lake,True,True
+IN,Lawrence,True,True
+IN,Madison,True,False
+IN,Marion,True,True
+IN,Marshall,False,True
+IN,Martin,True,True
+IN,Miami,True,True
+IN,Monroe,True,True
+IN,Montgomery,True,True
+IN,Newton,True,True
+IN,Noble,True,False
+IN,Not Determined,True,False
+IN,Ohio,True,True
+IN,Orange,True,True
+IN,Owen,True,True
+IN,Parke,True,True
+IN,Perry,True,True
+IN,Pike,True,True
+IN,Porter,True,True
+IN,Posey,False,True
+IN,Pulaski,True,True
+IN,Putnam,True,False
+IN,Randolph,True,True
+IN,Ripley,False,True
+IN,Rush,False,True
+IN,Scott,False,True
+IN,Spencer,True,True
+IN,St. Joseph,True,True
+IN,Starke,True,True
+IN,Steuben,True,False
+IN,Sullivan,True,False
+IN,Switzerland,False,True
+IN,Tippecanoe,True,True
+IN,Union,True,True
+IN,Vanderburgh,True,True
+IN,Vermillion,True,True
+IN,Vigo,True,True
+IN,Wabash,True,True
+IN,Warren,True,True
+IN,Washington,True,False
+IN,Wayne,True,True
+IN,White,True,False
+KS,Allen,True,True
+KS,Anderson,True,True
+KS,Atchison,True,True
+KS,Barber,True,True
+KS,Barton,True,True
+KS,Bourbon,True,True
+KS,Brown,True,True
+KS,Butler,True,True
+KS,Chase,True,True
+KS,Chautauqua,True,True
+KS,Cherokee,False,True
+KS,Cheyenne,True,True
+KS,Clark,True,True
+KS,Clay,False,True
+KS,Cloud,True,True
+KS,Comanche,False,True
+KS,Cowley,True,True
+KS,Crawford,True,True
+KS,Decatur,True,True
+KS,Doniphan,False,True
+KS,Douglas,True,True
+KS,Edwards,True,True
+KS,Elk,True,True
+KS,Ellis,True,True
+KS,Ellsworth,False,True
+KS,Finney,True,True
+KS,Ford,True,True
+KS,Franklin,False,True
+KS,Geary,True,True
+KS,Gove,False,True
+KS,Graham,True,True
+KS,Grant,True,False
+KS,Gray,True,True
+KS,Greeley,True,False
+KS,Greenwood,True,True
+KS,Hamilton,False,True
+KS,Harper,True,True
+KS,Harvey,True,True
+KS,Haskell,False,True
+KS,Hodgeman,False,True
+KS,Jackson,True,True
+KS,Jefferson,False,True
+KS,Jewell,True,True
+KS,Johnson,True,False
+KS,Kearny,False,True
+KS,Kingman,False,True
+KS,Kiowa,False,True
+KS,Labette,True,True
+KS,Lane,False,True
+KS,Leavenworth,True,False
+KS,Lincoln,True,True
+KS,Linn,True,True
+KS,Logan,False,True
+KS,Lyon,True,True
+KS,Marion,False,True
+KS,Marshall,False,True
+KS,Mcpherson,False,True
+KS,Meade,True,True
+KS,Miami,False,True
+KS,Mitchell,True,True
+KS,Montgomery,True,True
+KS,Morris,True,True
+KS,Morton,True,True
+KS,Nemaha,False,True
+KS,Neosho,True,True
+KS,Ness,True,True
+KS,Norton,True,True
+KS,Osage,False,True
+KS,Osborne,True,True
+KS,Ottawa,True,True
+KS,Pawnee,True,True
+KS,Phillips,True,True
+KS,Pottawatomie,True,False
+KS,Pratt,True,True
+KS,Rawlins,True,True
+KS,Reno,True,True
+KS,Republic,False,True
+KS,Rice,False,True
+KS,Riley,True,True
+KS,Rooks,False,True
+KS,Rush,True,True
+KS,Russell,True,True
+KS,Saline,True,True
+KS,Scott,False,True
+KS,Sedgwick,True,True
+KS,Seward,True,False
+KS,Shawnee,True,True
+KS,Sheridan,True,True
+KS,Sherman,True,True
+KS,Smith,False,True
+KS,Stafford,True,True
+KS,Stanton,True,True
+KS,Stevens,True,False
+KS,Sumner,True,True
+KS,Trego,False,True
+KS,Wabaunsee,False,True
+KS,Wallace,True,True
+KS,Washington,True,True
+KS,Wichita,True,True
+KS,Wilson,True,True
+KS,Woodson,False,True
+KS,Wyandotte,True,True
+KY,Adair,True,True
+KY,Allen,True,True
+KY,Anderson,True,False
+KY,Ballard,True,True
+KY,Barren,True,True
+KY,Bath,True,True
+KY,Bell,True,True
+KY,Bourbon,True,True
+KY,Boyd,True,True
+KY,Boyle,True,False
+KY,Bracken,True,True
+KY,Breathitt,True,True
+KY,Breckinridge,True,True
+KY,Bullitt,True,True
+KY,Butler,True,True
+KY,Caldwell,True,True
+KY,Calloway,True,False
+KY,Campbell,True,True
+KY,Carlisle,True,True
+KY,Carroll,True,True
+KY,Carter,True,True
+KY,Casey,True,True
+KY,Christian,True,True
+KY,Clark,True,True
+KY,Clay,True,True
+KY,Clinton,True,True
+KY,Crittenden,True,True
+KY,Cumberland,True,True
+KY,Daviess,True,False
+KY,Edmonson,True,True
+KY,Elliott,True,True
+KY,Estill,True,True
+KY,Fayette,True,True
+KY,Fleming,True,False
+KY,Floyd,True,False
+KY,Franklin,True,False
+KY,Fulton,True,True
+KY,Gallatin,True,False
+KY,Garrard,True,True
+KY,Grant,True,False
+KY,Graves,True,True
+KY,Grayson,True,True
+KY,Green,True,True
+KY,Greenup,True,True
+KY,Hancock,True,True
+KY,Hardin,True,True
+KY,Harlan,True,True
+KY,Harrison,True,True
+KY,Hart,True,True
+KY,Henderson,True,True
+KY,Henry,True,False
+KY,Hickman,True,True
+KY,Hopkins,True,True
+KY,Jackson,True,True
+KY,Jefferson,True,True
+KY,Johnson,True,True
+KY,Kenton,False,True
+KY,Knott,True,True
+KY,Knox,True,True
+KY,Larue,True,True
+KY,Laurel,True,False
+KY,Lawrence,True,True
+KY,Lee,True,True
+KY,Leslie,True,True
+KY,Letcher,True,True
+KY,Lewis,True,True
+KY,Lincoln,True,True
+KY,Livingston,True,True
+KY,Logan,True,True
+KY,Lyon,True,True
+KY,Madison,True,True
+KY,Magoffin,True,True
+KY,Marion,True,True
+KY,Marshall,True,True
+KY,Martin,True,True
+KY,Mason,True,True
+KY,Mccracken,True,True
+KY,Mccreary,True,True
+KY,Mclean,True,True
+KY,Meade,True,True
+KY,Menifee,True,True
+KY,Mercer,True,True
+KY,Metcalfe,True,True
+KY,Monroe,True,True
+KY,Montgomery,True,True
+KY,Morgan,True,True
+KY,Muhlenberg,True,True
+KY,Nelson,True,True
+KY,Nicholas,True,True
+KY,Ohio,True,True
+KY,Oldham,True,False
+KY,Owen,True,True
+KY,Owsley,True,True
+KY,Pendleton,True,True
+KY,Perry,True,True
+KY,Pike,True,True
+KY,Powell,True,True
+KY,Pulaski,True,True
+KY,Robertson,True,True
+KY,Rockcastle,True,True
+KY,Rowan,True,True
+KY,Russell,True,True
+KY,Scott,False,True
+KY,Shelby,True,False
+KY,Simpson,True,False
+KY,Spencer,True,True
+KY,Taylor,True,True
+KY,Todd,True,True
+KY,Trigg,True,True
+KY,Trimble,True,True
+KY,Union,True,True
+KY,Warren,True,True
+KY,Washington,True,True
+KY,Wayne,True,True
+KY,Webster,True,True
+KY,Whitley,True,True
+KY,Wolfe,True,True
+LA,Acadia Parish,True,True
+LA,Allen Parish,True,True
+LA,Ascension Parish,True,True
+LA,Assumption Parish,True,True
+LA,Avoyelles Parish,True,True
+LA,Beauregard Parish,True,True
+LA,Bienville Parish,True,True
+LA,Bossier Parish,True,True
+LA,Caddo Parish,True,True
+LA,Calcasieu Parish,True,True
+LA,Caldwell Parish,True,True
+LA,Cameron Parish,True,True
+LA,Catahoula Parish,True,True
+LA,Claiborne Parish,True,True
+LA,Concordia Parish,True,True
+LA,De Soto Parish,True,True
+LA,East Baton Rouge Parish,True,True
+LA,East Carroll Parish,True,True
+LA,East Feliciana Parish,True,True
+LA,Evangeline Parish,True,True
+LA,Franklin Parish,True,True
+LA,Grant Parish,True,True
+LA,Iberia Parish,True,True
+LA,Iberville Parish,True,True
+LA,Jackson Parish,True,True
+LA,Jefferson Davis Parish,True,True
+LA,Jefferson Parish,True,True
+LA,Lafayette Parish,True,True
+LA,Lafourche Parish,True,True
+LA,Lasalle Parish,True,True
+LA,Lincoln Parish,True,True
+LA,Livingston Parish,True,True
+LA,Madison Parish,True,True
+LA,Morehouse Parish,True,True
+LA,Natchitoches Parish,True,True
+LA,Not Determined,True,False
+LA,Orleans Parish,True,True
+LA,Ouachita Parish,True,True
+LA,Plaquemines Parish,True,True
+LA,Pointe Coupee Parish,True,True
+LA,Rapides Parish,True,True
+LA,Red River Parish,False,True
+LA,Richland Parish,True,True
+LA,Sabine Parish,True,True
+LA,St. Bernard Parish,False,True
+LA,St. Charles Parish,False,True
+LA,St. Helena Parish,True,True
+LA,St. James Parish,True,True
+LA,St. John The Baptist Parish,False,True
+LA,St. Landry Parish,True,True
+LA,St. Martin Parish,True,True
+LA,St. Mary Parish,True,True
+LA,St. Tammany Parish,False,True
+LA,Tangipahoa Parish,True,True
+LA,Tensas Parish,True,True
+LA,Terrebonne Parish,True,True
+LA,Union Parish,True,True
+LA,Vermilion Parish,True,True
+LA,Vernon Parish,True,True
+LA,Washington Parish,True,True
+LA,Webster Parish,True,True
+LA,West Baton Rouge Parish,False,True
+LA,West Carroll Parish,False,True
+LA,West Feliciana Parish,True,True
+LA,Winn Parish,True,True
+MA,Barnstable,True,True
+MA,Berkshire,True,True
+MA,Bristol,True,True
+MA,Dukes,True,True
+MA,Essex,True,True
+MA,Franklin,True,True
+MA,Hampden,True,True
+MA,Hampshire,True,True
+MA,Middlesex,True,True
+MA,Nantucket,True,False
+MA,Norfolk,True,True
+MA,Not Determined,True,False
+MA,Plymouth,True,True
+MA,Suffolk,True,True
+MA,Worcester,True,True
+MD,Allegany,True,True
+MD,Anne Arundel,True,True
+MD,Baltimore,False,True
+MD,Baltimore City,True,True
+MD,Calvert,False,True
+MD,Caroline,True,True
+MD,Carroll,True,True
+MD,Cecil,True,True
+MD,Charles,True,True
+MD,Dorchester,True,True
+MD,Frederick,True,True
+MD,Garrett,True,True
+MD,Harford,False,True
+MD,Kent,True,True
+MD,Montgomery,True,True
+MD,Prince George'S,True,True
+MD,Queen Anne'S,True,True
+MD,Somerset,True,True
+MD,St. Mary'S,False,True
+MD,Talbot,False,True
+MD,Washington,True,True
+MD,Wicomico,True,True
+MD,Worcester,True,True
+ME,Androscoggin,True,True
+ME,Aroostook,True,True
+ME,Cumberland,True,True
+ME,Franklin,True,True
+ME,Hancock,True,True
+ME,Kennebec,True,True
+ME,Knox,True,True
+ME,Lincoln,True,True
+ME,Oxford,True,True
+ME,Penobscot,True,True
+ME,Piscataquis,True,True
+ME,Sagadahoc,False,True
+ME,Somerset,True,True
+ME,Waldo,True,True
+ME,Washington,True,True
+ME,York,True,True
+MH,Ailinginae,True,True
+MH,Ailinglaplap,True,True
+MH,Ailuk,True,True
+MH,Arno,True,True
+MH,Aur,True,True
+MH,Bikar,True,True
+MH,Bikini,True,True
+MH,Bokak,False,True
+MH,Ebon,True,True
+MH,Enewetak,True,True
+MH,Erikub,True,True
+MH,Jabat,True,True
+MH,Jaluit,True,True
+MH,Jemo Municipality,True,True
+MH,Kwajalein,True,True
+MH,Lae,True,True
+MH,Lib,True,True
+MH,Likiep,True,True
+MH,Majuro,True,True
+MH,Maloelap,True,True
+MH,Mejit,True,True
+MH,Mili,True,True
+MH,Namorik,True,True
+MH,Namu,True,True
+MH,Not Determined,True,False
+MH,Rongelap,True,True
+MH,Rongrik,True,True
+MH,Toke,True,True
+MH,Ujae,True,True
+MH,Ujelang,True,True
+MH,Utrik,True,True
+MH,Wotho,True,True
+MH,Wotje,True,True
+MI,Alcona,True,True
+MI,Alger,True,True
+MI,Allegan,True,True
+MI,Alpena,True,True
+MI,Antrim,False,True
+MI,Arenac,True,True
+MI,Baraga,True,True
+MI,Barry,True,True
+MI,Benzie,False,True
+MI,Berrien,True,True
+MI,Branch,True,True
+MI,Calhoun,True,True
+MI,Cass,True,True
+MI,Charlevoix,True,True
+MI,Cheboygan,True,True
+MI,Chippewa,True,True
+MI,Clare,True,True
+MI,Crawford,True,True
+MI,Delta,True,True
+MI,Dickinson,True,True
+MI,Eaton,True,True
+MI,Emmet,True,True
+MI,Genesee,True,True
+MI,Gladwin,True,True
+MI,Gogebic,True,True
+MI,Grand Traverse,True,True
+MI,Gratiot,True,True
+MI,Hillsdale,True,True
+MI,Houghton,True,True
+MI,Huron,True,True
+MI,Ingham,True,True
+MI,Ionia,True,False
+MI,Iosco,True,True
+MI,Iron,True,True
+MI,Isabella,True,True
+MI,Jackson,True,True
+MI,Kalamazoo,True,True
+MI,Kalkaska,True,True
+MI,Kent,True,True
+MI,Keweenaw,True,True
+MI,Lake,True,True
+MI,Lapeer,True,False
+MI,Leelanau,True,True
+MI,Lenawee,True,True
+MI,Livingston,False,True
+MI,Luce,True,False
+MI,Mackinac,True,True
+MI,Macomb,True,True
+MI,Manistee,True,True
+MI,Marquette,True,True
+MI,Mason,True,False
+MI,Mecosta,True,True
+MI,Menominee,True,True
+MI,Midland,False,True
+MI,Missaukee,True,True
+MI,Monroe,True,True
+MI,Montcalm,True,True
+MI,Montmorency,True,True
+MI,Muskegon,True,True
+MI,Newaygo,True,True
+MI,Oakland,True,True
+MI,Oceana,True,True
+MI,Ogemaw,True,True
+MI,Ontonagon,True,True
+MI,Osceola,True,True
+MI,Oscoda,True,True
+MI,Otsego,True,False
+MI,Ottawa,True,True
+MI,Presque Isle,True,True
+MI,Roscommon,True,True
+MI,Saginaw,True,True
+MI,Sanilac,True,True
+MI,Schoolcraft,True,True
+MI,Shiawassee,True,True
+MI,St. Clair,True,True
+MI,St. Joseph,True,True
+MI,Tuscola,True,False
+MI,Van Buren,True,True
+MI,Washtenaw,True,True
+MI,Wayne,True,True
+MI,Wexford,True,True
+MN,Aitkin,True,True
+MN,Anoka,True,False
+MN,Becker,True,True
+MN,Beltrami,True,True
+MN,Benton,False,True
+MN,Big Stone,True,True
+MN,Blue Earth,True,True
+MN,Brown,False,True
+MN,Carlton,True,True
+MN,Cass,True,True
+MN,Chippewa,True,False
+MN,Chisago,True,True
+MN,Clay,True,True
+MN,Clearwater,True,True
+MN,Cook,True,True
+MN,Cottonwood,True,True
+MN,Crow Wing,True,False
+MN,Dodge,False,True
+MN,Douglas,False,True
+MN,Faribault,False,True
+MN,Fillmore,True,True
+MN,Freeborn,False,True
+MN,Goodhue,True,False
+MN,Grant,False,True
+MN,Hennepin,True,True
+MN,Houston,False,True
+MN,Hubbard,True,True
+MN,Itasca,True,True
+MN,Jackson,True,True
+MN,Kanabec,True,False
+MN,Kittson,True,True
+MN,Koochiching,True,True
+MN,Lac Qui Parle,True,True
+MN,Lake,False,True
+MN,Lake Of The Woods,True,True
+MN,Lincoln,False,True
+MN,Lyon,True,True
+MN,Mahnomen,True,True
+MN,Marshall,True,True
+MN,Martin,False,True
+MN,Mcleod,False,True
+MN,Meeker,True,True
+MN,Mille Lacs,True,True
+MN,Morrison,True,True
+MN,Mower,True,True
+MN,Murray,True,True
+MN,Nicollet,False,True
+MN,Nobles,True,True
+MN,Norman,True,True
+MN,Not Determined,True,False
+MN,Olmsted,True,False
+MN,Otter Tail,True,True
+MN,Pennington,True,True
+MN,Pine,True,True
+MN,Pipestone,True,True
+MN,Polk,False,True
+MN,Pope,True,True
+MN,Ramsey,True,True
+MN,Red Lake,True,True
+MN,Redwood,True,True
+MN,Renville,False,True
+MN,Rice,True,True
+MN,Rock,True,True
+MN,Roseau,False,True
+MN,Scott,True,False
+MN,Sherburne,True,True
+MN,Sibley,True,True
+MN,St. Louis,True,True
+MN,Stearns,True,True
+MN,Stevens,True,False
+MN,Swift,True,True
+MN,Todd,True,True
+MN,Traverse,True,True
+MN,Wabasha,True,True
+MN,Wadena,True,True
+MN,Waseca,True,True
+MN,Washington,True,False
+MN,Watonwan,True,True
+MN,Wilkin,True,True
+MN,Winona,True,True
+MN,Wright,False,True
+MN,Yellow Medicine,True,True
+MO,Adair,True,False
+MO,Andrew,False,True
+MO,Atchison,True,True
+MO,Audrain,True,True
+MO,Barry,True,True
+MO,Barton,True,True
+MO,Bates,True,True
+MO,Benton,True,True
+MO,Bollinger,True,True
+MO,Boone,True,True
+MO,Buchanan,True,True
+MO,Butler,True,False
+MO,Caldwell,True,True
+MO,Callaway,False,True
+MO,Camden,True,True
+MO,Cape Girardeau,True,True
+MO,Carroll,True,True
+MO,Carter,True,True
+MO,Cedar,True,True
+MO,Chariton,True,True
+MO,Christian,True,True
+MO,Clark,True,True
+MO,Clinton,True,False
+MO,Cole,True,False
+MO,Crawford,True,True
+MO,Dade,True,True
+MO,Dallas,True,True
+MO,Daviess,True,True
+MO,Dekalb,True,True
+MO,Dent,True,True
+MO,Douglas,True,True
+MO,Dunklin,True,True
+MO,Franklin,True,False
+MO,Gasconade,True,True
+MO,Gentry,True,True
+MO,Greene,True,True
+MO,Grundy,True,True
+MO,Harrison,True,True
+MO,Henry,True,False
+MO,Hickory,True,True
+MO,Holt,True,True
+MO,Howard,True,True
+MO,Howell,True,True
+MO,Iron,True,True
+MO,Jackson,True,True
+MO,Jasper,True,True
+MO,Jefferson,True,True
+MO,Johnson,False,True
+MO,Knox,True,False
+MO,Laclede,True,True
+MO,Lafayette,True,True
+MO,Lawrence,True,True
+MO,Lewis,True,True
+MO,Lincoln,True,False
+MO,Linn,True,True
+MO,Livingston,True,False
+MO,Macon,True,True
+MO,Madison,True,True
+MO,Maries,True,True
+MO,Marion,True,True
+MO,Mcdonald,True,True
+MO,Mercer,True,True
+MO,Miller,True,True
+MO,Mississippi,True,True
+MO,Moniteau,True,False
+MO,Monroe,True,True
+MO,Montgomery,True,True
+MO,Morgan,True,True
+MO,New Madrid,True,True
+MO,Newton,True,True
+MO,Nodaway,True,True
+MO,Oregon,True,True
+MO,Osage,False,True
+MO,Ozark,True,True
+MO,Pemiscot,True,True
+MO,Perry,True,True
+MO,Pettis,True,False
+MO,Phelps,True,True
+MO,Pike,True,True
+MO,Polk,True,True
+MO,Pulaski,True,True
+MO,Putnam,True,True
+MO,Ralls,True,True
+MO,Randolph,True,True
+MO,Ray,False,True
+MO,Reynolds,True,True
+MO,Ripley,True,True
+MO,Saline,True,True
+MO,Schuyler,True,True
+MO,Scotland,False,True
+MO,Scott,True,True
+MO,Shannon,True,True
+MO,Shelby,True,True
+MO,St. Charles,False,True
+MO,St. Clair,True,True
+MO,St. Francois,True,False
+MO,St. Louis,True,True
+MO,St. Louis City,True,True
+MO,Ste. Genevieve,True,False
+MO,Stoddard,True,True
+MO,Stone,True,True
+MO,Sullivan,True,True
+MO,Taney,True,True
+MO,Texas,True,True
+MO,Vernon,True,True
+MO,Warren,True,False
+MO,Washington,True,True
+MO,Wayne,True,True
+MO,Webster,True,True
+MO,Worth,True,True
+MO,Wright,True,True
+MP,Northern Islands Municipality,True,False
+MP,Rota Municipality,True,False
+MP,Saipan Municipality,True,True
+MP,Tinian Municipality,True,False
+MS,Adams,True,True
+MS,Alcorn,True,True
+MS,Amite,True,True
+MS,Attala,True,True
+MS,Benton,True,True
+MS,Bolivar,True,True
+MS,Calhoun,True,True
+MS,Carroll,True,True
+MS,Chickasaw,True,True
+MS,Choctaw,True,True
+MS,Claiborne,True,True
+MS,Clarke,True,True
+MS,Clay,True,True
+MS,Coahoma,True,True
+MS,Copiah,True,True
+MS,Covington,True,True
+MS,Desoto,False,True
+MS,Forrest,True,True
+MS,Franklin,True,True
+MS,George,True,True
+MS,Greene,True,True
+MS,Grenada,True,True
+MS,Hancock,False,True
+MS,Harrison,True,True
+MS,Hinds,True,True
+MS,Holmes,True,True
+MS,Humphreys,True,True
+MS,Issaquena,True,True
+MS,Itawamba,True,True
+MS,Jackson,True,True
+MS,Jasper,True,True
+MS,Jefferson,True,True
+MS,Jefferson Davis,True,True
+MS,Jones,True,True
+MS,Kemper,True,True
+MS,Lafayette,True,True
+MS,Lamar,True,True
+MS,Lauderdale,True,True
+MS,Lawrence,True,True
+MS,Leake,True,True
+MS,Lee,True,True
+MS,Leflore,True,True
+MS,Lincoln,True,True
+MS,Lowndes,True,True
+MS,Madison,True,True
+MS,Marion,True,True
+MS,Marshall,True,True
+MS,Monroe,True,True
+MS,Montgomery,True,True
+MS,Neshoba,True,True
+MS,Newton,True,True
+MS,Noxubee,True,True
+MS,Oktibbeha,True,True
+MS,Panola,True,True
+MS,Pearl River,True,True
+MS,Perry,True,True
+MS,Pike,True,True
+MS,Pontotoc,True,True
+MS,Prentiss,True,True
+MS,Quitman,True,True
+MS,Rankin,True,True
+MS,Scott,True,True
+MS,Sharkey,True,True
+MS,Simpson,True,True
+MS,Smith,True,True
+MS,Stone,True,True
+MS,Sunflower,True,True
+MS,Tallahatchie,True,True
+MS,Tate,True,True
+MS,Tippah,True,True
+MS,Tishomingo,True,True
+MS,Tunica,True,True
+MS,Union,True,True
+MS,Walthall,True,True
+MS,Warren,True,True
+MS,Washington,True,True
+MS,Wayne,True,True
+MS,Webster,False,True
+MS,Wilkinson,True,True
+MS,Winston,True,True
+MS,Yalobusha,True,True
+MS,Yazoo,True,True
+MT,Beaverhead,True,True
+MT,Big Horn,True,True
+MT,Blaine,True,True
+MT,Broadwater,False,True
+MT,Carbon,False,True
+MT,Carter,True,True
+MT,Cascade,True,True
+MT,Chouteau,True,True
+MT,Custer,True,True
+MT,Daniels,True,True
+MT,Deer Lodge,True,True
+MT,Fallon,False,True
+MT,Fergus,True,True
+MT,Flathead,True,True
+MT,Gallatin,False,True
+MT,Garfield,True,True
+MT,Glacier,True,True
+MT,Golden Valley,True,True
+MT,Granite,True,True
+MT,Hill,True,True
+MT,Jefferson,True,False
+MT,Judith Basin,True,True
+MT,Lake,True,True
+MT,Lewis And Clark,True,True
+MT,Liberty,True,True
+MT,Lincoln,True,True
+MT,Madison,True,True
+MT,Mccone,True,True
+MT,Meagher,False,True
+MT,Mineral,True,True
+MT,Missoula,True,True
+MT,Musselshell,True,True
+MT,Park,True,True
+MT,Petroleum,True,True
+MT,Phillips,True,True
+MT,Pondera,True,True
+MT,Powder River,True,True
+MT,Powell,True,True
+MT,Prairie,True,True
+MT,Ravalli,True,True
+MT,Richland,True,False
+MT,Roosevelt,True,True
+MT,Rosebud,True,True
+MT,Sanders,True,True
+MT,Sheridan,True,True
+MT,Silver Bow,True,True
+MT,Stillwater,True,False
+MT,Sweet Grass,False,True
+MT,Teton,True,True
+MT,Toole,True,True
+MT,Treasure,True,True
+MT,Valley,True,True
+MT,Wheatland,True,True
+MT,Wibaux,False,True
+MT,Yellowstone,True,True
+NC,Alamance,True,True
+NC,Alexander,True,True
+NC,Alleghany,True,True
+NC,Anson,True,True
+NC,Ashe,True,True
+NC,Avery,True,True
+NC,Beaufort,True,True
+NC,Bertie,True,True
+NC,Bladen,True,True
+NC,Brunswick,True,True
+NC,Buncombe,True,True
+NC,Burke,True,False
+NC,Cabarrus,True,True
+NC,Caldwell,True,True
+NC,Camden,True,True
+NC,Carteret,True,True
+NC,Caswell,True,True
+NC,Catawba,True,True
+NC,Chatham,True,True
+NC,Cherokee,True,True
+NC,Chowan,True,True
+NC,Clay,True,True
+NC,Cleveland,True,True
+NC,Columbus,True,True
+NC,Craven,True,True
+NC,Cumberland,True,True
+NC,Currituck,False,True
+NC,Dare,False,True
+NC,Davidson,True,True
+NC,Davie,True,True
+NC,Duplin,True,True
+NC,Durham,True,True
+NC,Edgecombe,True,True
+NC,Forsyth,True,True
+NC,Franklin,True,True
+NC,Gaston,True,True
+NC,Gates,True,True
+NC,Graham,True,True
+NC,Granville,True,True
+NC,Greene,True,True
+NC,Guilford,True,True
+NC,Halifax,True,True
+NC,Harnett,True,True
+NC,Haywood,True,True
+NC,Henderson,True,True
+NC,Hertford,True,True
+NC,Hoke,True,True
+NC,Hyde,True,True
+NC,Iredell,False,True
+NC,Jackson,True,True
+NC,Johnston,True,True
+NC,Jones,True,True
+NC,Lee,True,False
+NC,Lenoir,True,True
+NC,Lincoln,True,True
+NC,Macon,True,True
+NC,Madison,True,True
+NC,Martin,True,True
+NC,Mcdowell,True,True
+NC,Mecklenburg,True,True
+NC,Mitchell,True,True
+NC,Montgomery,True,True
+NC,Moore,False,True
+NC,Nash,True,True
+NC,New Hanover,True,True
+NC,Northampton,True,True
+NC,Onslow,True,True
+NC,Orange,True,True
+NC,Pamlico,True,True
+NC,Pasquotank,True,False
+NC,Pender,True,True
+NC,Perquimans,True,True
+NC,Person,True,True
+NC,Pitt,True,True
+NC,Polk,True,True
+NC,Randolph,True,True
+NC,Richmond,True,True
+NC,Robeson,True,True
+NC,Rockingham,True,True
+NC,Rowan,True,True
+NC,Rutherford,True,True
+NC,Sampson,True,True
+NC,Scotland,True,True
+NC,Stanly,True,True
+NC,Stokes,False,True
+NC,Surry,True,True
+NC,Swain,True,True
+NC,Transylvania,True,True
+NC,Tyrrell,True,True
+NC,Union,True,True
+NC,Vance,True,True
+NC,Wake,True,True
+NC,Warren,True,True
+NC,Washington,True,True
+NC,Watauga,True,True
+NC,Wayne,True,True
+NC,Wilkes,True,True
+NC,Wilson,True,True
+NC,Yadkin,True,True
+NC,Yancey,True,True
+ND,Adams,False,True
+ND,Barnes,False,True
+ND,Benson,True,True
+ND,Billings,True,True
+ND,Bottineau,True,True
+ND,Bowman,True,True
+ND,Burke,True,True
+ND,Burleigh,True,True
+ND,Cass,True,True
+ND,Cavalier,True,True
+ND,Dickey,False,True
+ND,Divide,True,True
+ND,Dunn,True,True
+ND,Eddy,True,True
+ND,Emmons,True,True
+ND,Foster,False,True
+ND,Golden Valley,True,True
+ND,Grand Forks,True,True
+ND,Grant,True,True
+ND,Griggs,True,True
+ND,Hettinger,True,True
+ND,Kidder,True,True
+ND,Lamoure,True,True
+ND,Logan,True,True
+ND,Mchenry,True,True
+ND,Mcintosh,True,True
+ND,Mckenzie,True,True
+ND,Mclean,True,True
+ND,Mercer,True,True
+ND,Morton,False,True
+ND,Mountrail,True,True
+ND,Nelson,True,True
+ND,Oliver,True,True
+ND,Pembina,True,True
+ND,Pierce,True,True
+ND,Ramsey,True,False
+ND,Ransom,True,True
+ND,Renville,True,True
+ND,Richland,True,True
+ND,Rolette,True,True
+ND,Sargent,False,True
+ND,Sheridan,False,True
+ND,Sioux,True,True
+ND,Slope,True,True
+ND,Stark,False,True
+ND,Steele,False,True
+ND,Stutsman,True,True
+ND,Towner,True,True
+ND,Traill,False,True
+ND,Walsh,True,True
+ND,Ward,False,True
+ND,Wells,True,True
+ND,Williams,True,True
+NE,Adams,False,True
+NE,Antelope,False,True
+NE,Arthur,True,True
+NE,Banner,True,True
+NE,Blaine,True,True
+NE,Boone,True,True
+NE,Box Butte,True,False
+NE,Boyd,False,True
+NE,Brown,True,True
+NE,Buffalo,True,True
+NE,Burt,True,True
+NE,Butler,False,True
+NE,Cass,True,True
+NE,Cedar,True,True
+NE,Chase,True,True
+NE,Cherry,True,False
+NE,Cheyenne,True,False
+NE,Clay,True,True
+NE,Colfax,True,True
+NE,Cuming,True,True
+NE,Custer,True,True
+NE,Dakota,True,True
+NE,Dawes,True,False
+NE,Dawson,True,False
+NE,Deuel,True,True
+NE,Dixon,True,True
+NE,Dodge,True,True
+NE,Douglas,True,True
+NE,Dundy,True,True
+NE,Fillmore,True,True
+NE,Franklin,True,True
+NE,Frontier,True,True
+NE,Furnas,True,True
+NE,Gage,True,False
+NE,Garden,True,False
+NE,Garfield,True,True
+NE,Gosper,True,True
+NE,Grant,True,True
+NE,Greeley,True,True
+NE,Hall,True,True
+NE,Harlan,False,True
+NE,Hayes,True,True
+NE,Hitchcock,True,True
+NE,Holt,True,True
+NE,Hooker,True,True
+NE,Howard,True,True
+NE,Jefferson,True,True
+NE,Johnson,True,True
+NE,Keith,True,True
+NE,Keya Paha,True,True
+NE,Kimball,True,True
+NE,Knox,True,True
+NE,Lancaster,True,True
+NE,Lincoln,True,False
+NE,Logan,True,True
+NE,Loup,True,True
+NE,Madison,True,True
+NE,Mcpherson,True,True
+NE,Merrick,True,True
+NE,Morrill,True,False
+NE,Nance,True,True
+NE,Nemaha,True,True
+NE,Nuckolls,True,True
+NE,Otoe,True,False
+NE,Pawnee,True,True
+NE,Perkins,True,False
+NE,Phelps,True,False
+NE,Pierce,True,False
+NE,Platte,True,True
+NE,Polk,False,True
+NE,Red Willow,True,False
+NE,Richardson,True,True
+NE,Rock,True,True
+NE,Saline,False,True
+NE,Sarpy,False,True
+NE,Saunders,True,True
+NE,Scotts Bluff,True,True
+NE,Sheridan,True,True
+NE,Sherman,True,True
+NE,Sioux,True,True
+NE,Stanton,True,True
+NE,Thayer,True,True
+NE,Thomas,True,True
+NE,Thurston,True,True
+NE,Valley,True,True
+NE,Wayne,True,True
+NE,Webster,True,False
+NE,Wheeler,True,True
+NH,Belknap,True,True
+NH,Carroll,True,True
+NH,Cheshire,True,True
+NH,Coos,True,True
+NH,Grafton,True,True
+NH,Hillsborough,True,True
+NH,Merrimack,True,True
+NH,Not Determined,True,False
+NH,Rockingham,True,True
+NH,Strafford,True,True
+NH,Sullivan,True,True
+NH,"Windham County, Vt",False,True
+NJ,Atlantic,True,True
+NJ,Bergen,False,True
+NJ,Burlington,True,True
+NJ,Camden,True,True
+NJ,Cape May,True,True
+NJ,Cumberland,True,True
+NJ,Essex,True,True
+NJ,Gloucester,False,True
+NJ,Hudson,True,True
+NJ,Hunterdon,True,True
+NJ,Mercer,True,True
+NJ,Middlesex,True,True
+NJ,Monmouth,True,True
+NJ,Morris,True,True
+NJ,Ocean,True,True
+NJ,Passaic,True,True
+NJ,Salem,True,True
+NJ,Somerset,True,False
+NJ,Sussex,False,True
+NJ,Union,True,True
+NJ,Warren,True,True
+NM,Bernalillo,True,True
+NM,Catron,True,True
+NM,Chaves,False,True
+NM,Cibola,True,True
+NM,Colfax,False,True
+NM,Curry,True,True
+NM,De Baca,True,True
+NM,Dona Ana,True,True
+NM,Eddy,True,True
+NM,Grant,True,True
+NM,Guadalupe,True,True
+NM,Harding,True,True
+NM,Hidalgo,True,True
+NM,Lea,True,True
+NM,Lincoln,True,True
+NM,Luna,True,True
+NM,Mckinley,True,True
+NM,Mora,True,True
+NM,Otero,True,True
+NM,Quay,True,True
+NM,Rio Arriba,True,True
+NM,Roosevelt,True,True
+NM,San Juan,True,True
+NM,San Miguel,True,True
+NM,Sandoval,True,True
+NM,Santa Fe,True,True
+NM,Sierra,True,True
+NM,Socorro,True,True
+NM,Taos,True,True
+NM,Torrance,True,True
+NM,Union,False,True
+NM,Valencia,True,True
+NV,"Alpine County, Ca",False,True
+NV,Carson City,True,True
+NV,Churchill,True,False
+NV,Clark,True,True
+NV,Douglas,True,True
+NV,Elko,True,True
+NV,Esmeralda,True,True
+NV,Eureka,True,True
+NV,Humboldt,True,False
+NV,Lander,True,True
+NV,Lincoln,True,True
+NV,Lyon,True,True
+NV,Mineral,True,True
+NV,"Mono County, Ca",False,True
+NV,Not Determined,True,False
+NV,Nye,True,True
+NV,Pershing,True,True
+NV,Storey,True,True
+NV,Washoe,True,True
+NV,White Pine,True,False
+NY,Albany,True,True
+NY,Allegany,True,True
+NY,Bronx,True,True
+NY,Broome,True,True
+NY,Cattaraugus,True,True
+NY,Cayuga,True,True
+NY,Chautauqua,True,True
+NY,Chemung,True,True
+NY,Clinton,True,False
+NY,Columbia,True,True
+NY,Cortland,True,True
+NY,Delaware,True,True
+NY,Dutchess,False,True
+NY,Erie,True,True
+NY,Essex,True,True
+NY,Franklin,True,True
+NY,Fulton,True,True
+NY,Genesee,True,False
+NY,Greene,True,True
+NY,Hamilton,True,True
+NY,Herkimer,True,True
+NY,Jefferson,True,True
+NY,Kings,True,True
+NY,Lewis,True,True
+NY,Livingston,True,True
+NY,Madison,True,False
+NY,Monroe,True,True
+NY,Montgomery,True,True
+NY,Nassau,False,True
+NY,New York,True,True
+NY,Niagara,True,True
+NY,Not Determined,True,False
+NY,Oneida,True,True
+NY,Onondaga,True,True
+NY,Ontario,True,True
+NY,Orange,True,True
+NY,Orleans,True,True
+NY,Oswego,True,True
+NY,Otsego,True,True
+NY,Putnam,True,False
+NY,Queens,True,True
+NY,Rensselaer,False,True
+NY,Richmond,True,True
+NY,Rockland,True,True
+NY,Schenectady,True,True
+NY,Schoharie,True,False
+NY,Schuyler,True,True
+NY,Seneca,True,True
+NY,St. Lawrence,True,True
+NY,Steuben,True,True
+NY,Suffolk,False,True
+NY,Sullivan,True,True
+NY,Tioga,True,False
+NY,Tompkins,True,True
+NY,Ulster,True,True
+NY,Warren,True,True
+NY,Washington,True,True
+NY,Wayne,False,True
+NY,Westchester,True,True
+NY,Wyoming,True,True
+NY,Yates,True,False
+OH,Adams,True,True
+OH,Allen,True,True
+OH,Ashland,True,False
+OH,Ashtabula,True,True
+OH,Athens,True,True
+OH,Auglaize,True,False
+OH,Belmont,True,True
+OH,Brown,True,True
+OH,Butler,True,True
+OH,Carroll,True,True
+OH,Champaign,True,False
+OH,Clark,True,True
+OH,Clermont,True,True
+OH,Clinton,True,True
+OH,Columbiana,True,True
+OH,Coshocton,True,True
+OH,Crawford,True,False
+OH,Cuyahoga,True,True
+OH,Darke,True,True
+OH,Defiance,True,True
+OH,Delaware,True,False
+OH,Erie,True,True
+OH,Fairfield,True,True
+OH,Fayette,True,True
+OH,Franklin,True,True
+OH,Gallia,True,False
+OH,Greene,True,True
+OH,Guernsey,True,True
+OH,Hamilton,True,True
+OH,Hancock,True,False
+OH,Hardin,True,True
+OH,Harrison,True,True
+OH,Highland,True,True
+OH,Hocking,True,True
+OH,Holmes,True,True
+OH,Huron,True,True
+OH,Jackson,True,True
+OH,Jefferson,True,True
+OH,Knox,True,True
+OH,Lake,True,True
+OH,Lawrence,True,True
+OH,Logan,True,True
+OH,Lorain,True,True
+OH,Lucas,True,True
+OH,Madison,True,True
+OH,Mahoning,True,True
+OH,Marion,True,True
+OH,Medina,True,True
+OH,Meigs,True,True
+OH,Miami,True,True
+OH,Monroe,True,True
+OH,Montgomery,True,True
+OH,Morgan,True,True
+OH,Morrow,False,True
+OH,Muskingum,True,True
+OH,Noble,True,True
+OH,Ottawa,False,True
+OH,Paulding,False,True
+OH,Perry,True,True
+OH,Pickaway,True,True
+OH,Pike,True,True
+OH,Portage,True,True
+OH,Putnam,True,True
+OH,Richland,True,True
+OH,Ross,True,True
+OH,Sandusky,True,True
+OH,Scioto,True,True
+OH,Stark,True,True
+OH,Summit,True,True
+OH,Trumbull,True,True
+OH,Tuscarawas,True,True
+OH,Union,True,True
+OH,Van Wert,True,True
+OH,Vinton,True,True
+OH,Warren,True,True
+OH,Washington,True,True
+OH,Williams,True,False
+OH,Wood,True,True
+OK,Adair,True,True
+OK,Alfalfa,True,True
+OK,Atoka,True,True
+OK,Beaver,True,False
+OK,Beckham,True,False
+OK,Blaine,True,True
+OK,Bryan,True,True
+OK,Caddo,True,True
+OK,Canadian,True,True
+OK,Carter,True,True
+OK,Cherokee,True,True
+OK,Choctaw,True,True
+OK,Cimarron,True,True
+OK,Cleveland,True,True
+OK,Coal,True,True
+OK,Comanche,True,True
+OK,Cotton,True,True
+OK,Craig,True,True
+OK,Creek,True,True
+OK,Custer,True,False
+OK,Delaware,True,True
+OK,Dewey,True,True
+OK,Ellis,True,True
+OK,Garfield,True,True
+OK,Garvin,True,True
+OK,Grant,True,True
+OK,Greer,True,True
+OK,Harmon,True,True
+OK,Harper,True,True
+OK,Haskell,True,True
+OK,Hughes,True,True
+OK,Jackson,True,True
+OK,Jefferson,True,True
+OK,Johnston,True,True
+OK,Kay,True,True
+OK,Kiowa,True,True
+OK,Latimer,True,True
+OK,Le Flore,True,True
+OK,Lincoln,True,True
+OK,Logan,True,True
+OK,Love,True,True
+OK,Major,True,False
+OK,Marshall,True,True
+OK,Mayes,True,True
+OK,Mcclain,True,True
+OK,Mccurtain,True,True
+OK,Mcintosh,True,True
+OK,Murray,True,True
+OK,Muskogee,True,True
+OK,"Newton County, Mo",True,False
+OK,Noble,True,True
+OK,Nowata,True,True
+OK,Okfuskee,True,True
+OK,Oklahoma,True,True
+OK,Okmulgee,True,True
+OK,Osage,True,True
+OK,Ottawa,True,True
+OK,Pawnee,True,True
+OK,Payne,True,True
+OK,Pittsburg,True,True
+OK,Pontotoc,True,True
+OK,Pottawatomie,True,True
+OK,Pushmataha,True,True
+OK,Roger Mills,True,True
+OK,Rogers,True,True
+OK,Seminole,True,True
+OK,Sequoyah,True,True
+OK,Stephens,True,True
+OK,Texas,True,True
+OK,Tillman,True,True
+OK,Tulsa,True,True
+OK,Wagoner,True,True
+OK,Washington,True,True
+OK,Washita,True,True
+OK,Woods,True,True
+OK,Woodward,True,False
+OR,Baker,True,True
+OR,Benton,True,True
+OR,Clackamas,True,True
+OR,Clatsop,True,True
+OR,Columbia,True,True
+OR,Coos,True,True
+OR,Crook,True,True
+OR,Curry,True,True
+OR,Deschutes,True,True
+OR,Douglas,True,True
+OR,Gilliam,True,True
+OR,Grant,True,True
+OR,Harney,True,False
+OR,Hood River,True,True
+OR,Jackson,True,True
+OR,Jefferson,True,True
+OR,Josephine,True,True
+OR,Klamath,True,True
+OR,Lake,True,True
+OR,Lane,True,True
+OR,Lincoln,True,True
+OR,Linn,True,True
+OR,Malheur,True,True
+OR,Marion,True,True
+OR,Morrow,True,True
+OR,Multnomah,True,True
+OR,Polk,True,True
+OR,Sherman,True,True
+OR,Tillamook,True,True
+OR,Umatilla,True,True
+OR,Union,True,True
+OR,Wallowa,True,True
+OR,Wasco,True,True
+OR,Washington,True,True
+OR,Wheeler,True,True
+OR,Yamhill,True,True
+PA,Adams,False,True
+PA,Allegheny,True,True
+PA,Armstrong,True,True
+PA,Beaver,True,True
+PA,Bedford,True,True
+PA,Berks,True,True
+PA,Blair,True,True
+PA,Bradford,True,True
+PA,Bucks,False,True
+PA,Butler,True,True
+PA,Cambria,True,True
+PA,Cameron,True,True
+PA,Carbon,True,True
+PA,Centre,True,True
+PA,Chester,True,True
+PA,Clarion,True,True
+PA,Clearfield,True,True
+PA,Clinton,True,True
+PA,Columbia,False,True
+PA,Crawford,True,True
+PA,Cumberland,True,True
+PA,Dauphin,True,True
+PA,Delaware,True,True
+PA,Erie,True,True
+PA,Fayette,True,True
+PA,Forest,True,True
+PA,Franklin,True,True
+PA,Fulton,True,True
+PA,Greene,True,True
+PA,Huntingdon,True,True
+PA,Indiana,True,True
+PA,Jefferson,True,True
+PA,Juniata,False,True
+PA,Lackawanna,True,True
+PA,Lancaster,True,True
+PA,Lawrence,False,True
+PA,Lebanon,False,True
+PA,Lehigh,True,True
+PA,Luzerne,True,True
+PA,Lycoming,True,True
+PA,Mckean,True,True
+PA,Mercer,True,True
+PA,Mifflin,False,True
+PA,Monroe,False,True
+PA,Montgomery,True,True
+PA,Northampton,False,True
+PA,Northumberland,True,True
+PA,Perry,False,True
+PA,Philadelphia,True,True
+PA,Pike,False,True
+PA,Potter,True,True
+PA,Schuylkill,True,True
+PA,Snyder,False,True
+PA,Somerset,True,True
+PA,Sullivan,True,True
+PA,Susquehanna,True,True
+PA,Tioga,True,True
+PA,Union,True,False
+PA,Venango,True,True
+PA,Warren,True,False
+PA,Washington,True,True
+PA,Wayne,True,True
+PA,Westmoreland,True,True
+PA,Wyoming,False,True
+PA,York,True,True
+PR,Adjuntas Municipio,True,True
+PR,Aguada Municipio,False,True
+PR,Aguadilla Municipio,False,True
+PR,Aguas Buenas Municipio,True,True
+PR,Aibonito Municipio,False,True
+PR,Anasco Municipio,False,True
+PR,Arecibo Municipio,False,True
+PR,Arroyo Municipio,True,True
+PR,Barceloneta Municipio,True,True
+PR,Barranquitas Municipio,False,True
+PR,Bayamon Municipio,True,True
+PR,Cabo Rojo Municipio,False,True
+PR,Caguas Municipio,True,True
+PR,Camuy Municipio,True,True
+PR,Canovanas Municipio,True,True
+PR,Carolina Municipio,False,True
+PR,Catano Municipio,True,True
+PR,Cayey Municipio,False,True
+PR,Ceiba Municipio,False,True
+PR,Ciales Municipio,True,True
+PR,Cidra Municipio,True,True
+PR,Coamo Municipio,False,True
+PR,Comerio Municipio,False,True
+PR,Corozal Municipio,False,True
+PR,Culebra Municipio,True,True
+PR,Dorado Municipio,False,True
+PR,Florida Municipio,True,True
+PR,Guaynabo Municipio,True,False
+PR,Gurabo Municipio,False,True
+PR,Hatillo Municipio,True,True
+PR,Hormigueros Municipio,False,True
+PR,Humacao Municipio,False,True
+PR,Isabela Municipio,False,True
+PR,Jayuya Municipio,True,True
+PR,Juana Diaz Municipio,False,True
+PR,Juncos Municipio,False,True
+PR,Lajas Municipio,False,True
+PR,Lares Municipio,True,True
+PR,Las Marias Municipio,True,True
+PR,Las Piedras Municipio,False,True
+PR,Loiza Municipio,True,True
+PR,Luquillo Municipio,True,True
+PR,Manati Municipio,False,True
+PR,Maricao Municipio,True,True
+PR,Maunabo Municipio,True,True
+PR,Mayaguez Municipio,True,True
+PR,Moca Municipio,True,True
+PR,Morovis Municipio,True,False
+PR,Naguabo Municipio,True,True
+PR,Naranjito Municipio,True,True
+PR,Orocovis Municipio,True,True
+PR,Patillas Municipio,True,True
+PR,Penuelas Municipio,False,True
+PR,Ponce Municipio,True,True
+PR,Quebradillas Municipio,False,True
+PR,Rincon Municipio,True,True
+PR,Rio Grande Municipio,True,True
+PR,Sabana Grande Municipio,False,True
+PR,Salinas Municipio,False,True
+PR,San German Municipio,False,True
+PR,San Juan Municipio,True,True
+PR,San Lorenzo Municipio,False,True
+PR,San Sebastian Municipio,False,True
+PR,Santa Isabel Municipio,True,True
+PR,Toa Alta Municipio,True,True
+PR,Toa Baja Municipio,False,True
+PR,Trujillo Alto Municipio,False,True
+PR,Utuado Municipio,False,True
+PR,Vega Alta Municipio,False,True
+PR,Vega Baja Municipio,False,True
+PR,Vieques Municipio,True,True
+PR,Villalba Municipio,True,True
+PR,Yabucoa Municipio,False,True
+PR,Yauco Municipio,False,True
+PW,Aimeliik State,True,True
+PW,Airai State,True,True
+PW,Angaur State,True,True
+PW,Hatoboheit State,True,True
+PW,Kayangel State,True,True
+PW,Koror State,True,True
+PW,Melekeok State,True,True
+PW,Ngaraard State,True,True
+PW,Ngarchelong State,True,True
+PW,Ngardmau State,True,True
+PW,Ngatpang State,True,True
+PW,Ngchesar State,True,True
+PW,Ngernmlengui State,True,True
+PW,Ngiwal State,True,True
+PW,Peleliu State,True,True
+PW,Sonsorol State,True,True
+RI,Bristol,False,True
+RI,Kent,True,True
+RI,Newport,True,True
+RI,Providence,True,True
+RI,Washington,True,True
+SC,Abbeville,True,True
+SC,Aiken,True,True
+SC,Allendale,True,True
+SC,Anderson,True,True
+SC,Bamberg,True,True
+SC,Barnwell,True,True
+SC,Beaufort,True,True
+SC,Berkeley,True,True
+SC,Calhoun,True,True
+SC,Charleston,True,True
+SC,Cherokee,True,True
+SC,Chester,True,True
+SC,Chesterfield,True,True
+SC,Clarendon,True,True
+SC,Colleton,True,True
+SC,Darlington,True,True
+SC,Dillon,True,True
+SC,Dorchester,True,True
+SC,Edgefield,True,True
+SC,Fairfield,True,True
+SC,Florence,True,True
+SC,Georgetown,True,True
+SC,Greenville,True,True
+SC,Greenwood,True,True
+SC,Hampton,True,True
+SC,Horry,True,True
+SC,Jasper,True,True
+SC,Kershaw,True,True
+SC,Lancaster,True,True
+SC,Laurens,True,True
+SC,Lee,True,True
+SC,Lexington,True,True
+SC,Marion,True,True
+SC,Marlboro,True,True
+SC,Mccormick,True,True
+SC,Newberry,True,True
+SC,Oconee,True,True
+SC,Orangeburg,True,True
+SC,Pickens,True,True
+SC,Richland,True,True
+SC,Saluda,True,True
+SC,Spartanburg,True,True
+SC,Sumter,True,True
+SC,Union,True,True
+SC,Williamsburg,True,True
+SC,York,True,True
+SD,Aurora,False,True
+SD,Beadle,True,True
+SD,Bennett,True,True
+SD,Bon Homme,True,True
+SD,Brookings,True,True
+SD,Brown,True,True
+SD,Brule,True,True
+SD,Buffalo,True,True
+SD,Butte,True,True
+SD,Campbell,True,True
+SD,Charles Mix,True,True
+SD,Clark,True,True
+SD,Clay,True,True
+SD,Corson,True,True
+SD,Custer,False,True
+SD,Davison,True,True
+SD,Day,True,True
+SD,Deuel,True,True
+SD,Dewey,True,True
+SD,Douglas,False,True
+SD,Edmunds,True,True
+SD,Fall River,True,True
+SD,Faulk,True,True
+SD,Grant,False,True
+SD,Gregory,False,True
+SD,Haakon,True,True
+SD,Hamlin,False,True
+SD,Hand,False,True
+SD,Hanson,False,True
+SD,Harding,True,True
+SD,Hughes,True,False
+SD,Hutchinson,True,True
+SD,Hyde,True,True
+SD,Jackson,True,True
+SD,Jerauld,True,True
+SD,Jones,True,True
+SD,Kingsbury,True,True
+SD,Lake,False,True
+SD,Lawrence,False,True
+SD,Lincoln,True,True
+SD,Lyman,True,True
+SD,Marshall,True,True
+SD,Mccook,False,True
+SD,Mcpherson,True,True
+SD,Meade,True,True
+SD,Mellette,True,True
+SD,Miner,True,True
+SD,Minnehaha,True,True
+SD,Moody,True,True
+SD,Oglala Lakota,True,True
+SD,Pennington,True,True
+SD,Perkins,True,True
+SD,Potter,True,True
+SD,Roberts,True,True
+SD,Sanborn,True,True
+SD,Spink,True,True
+SD,Stanley,True,True
+SD,Sully,True,True
+SD,Todd,True,True
+SD,Tripp,True,True
+SD,Turner,False,True
+SD,Union,False,True
+SD,Walworth,True,True
+SD,Yankton,True,True
+SD,Ziebach,True,True
+TN,Anderson,True,True
+TN,Bedford,True,True
+TN,Benton,True,True
+TN,Bledsoe,True,True
+TN,Blount,False,True
+TN,Bradley,True,True
+TN,Campbell,True,True
+TN,Cannon,True,True
+TN,Carroll,True,True
+TN,Carter,True,True
+TN,Cheatham,True,True
+TN,Chester,True,True
+TN,Claiborne,True,True
+TN,Clay,True,True
+TN,Cocke,True,True
+TN,Coffee,True,True
+TN,Crockett,True,True
+TN,Cumberland,True,True
+TN,Davidson,True,True
+TN,Decatur,True,True
+TN,Dekalb,True,True
+TN,Dickson,True,True
+TN,Dyer,True,True
+TN,Fayette,True,True
+TN,Fentress,True,True
+TN,Franklin,True,True
+TN,Gibson,True,True
+TN,Giles,True,True
+TN,Grainger,True,True
+TN,Greene,True,True
+TN,Grundy,True,True
+TN,Hamblen,True,True
+TN,Hamilton,True,True
+TN,Hancock,True,True
+TN,Hardeman,True,True
+TN,Hardin,True,True
+TN,Hawkins,True,True
+TN,Haywood,True,True
+TN,Henderson,True,True
+TN,Henry,True,True
+TN,Hickman,True,True
+TN,Houston,True,True
+TN,Humphreys,True,True
+TN,Jackson,True,True
+TN,Jefferson,True,True
+TN,Johnson,True,True
+TN,Knox,True,True
+TN,Lake,True,True
+TN,Lauderdale,False,True
+TN,Lawrence,True,True
+TN,Lewis,True,True
+TN,Lincoln,True,True
+TN,Loudon,False,True
+TN,Macon,True,True
+TN,Madison,True,True
+TN,Marion,True,True
+TN,Marshall,True,True
+TN,Maury,True,False
+TN,Mcminn,True,True
+TN,Mcnairy,True,True
+TN,Meigs,True,True
+TN,Monroe,True,True
+TN,Montgomery,False,True
+TN,Moore,True,True
+TN,Morgan,True,True
+TN,Obion,True,True
+TN,Overton,True,True
+TN,Perry,True,True
+TN,Pickett,True,True
+TN,Polk,True,True
+TN,Putnam,True,True
+TN,Rhea,True,True
+TN,Roane,True,True
+TN,Robertson,True,True
+TN,Rutherford,True,False
+TN,Scott,True,True
+TN,Sequatchie,True,True
+TN,Sevier,True,True
+TN,Shelby,True,True
+TN,Smith,True,True
+TN,Stewart,False,True
+TN,Sullivan,True,True
+TN,Sumner,True,False
+TN,Tipton,True,True
+TN,Trousdale,True,True
+TN,Unicoi,True,True
+TN,Union,True,True
+TN,Van Buren,True,True
+TN,Warren,True,True
+TN,Washington,True,True
+TN,Wayne,True,True
+TN,Weakley,True,True
+TN,White,True,True
+TN,Williamson,True,False
+TN,Wilson,True,True
+TX,Anderson,True,False
+TX,Andrews,True,False
+TX,Angelina,True,False
+TX,Aransas,True,True
+TX,Archer,True,True
+TX,Armstrong,True,True
+TX,Atascosa,True,True
+TX,Austin,False,True
+TX,Bailey,True,False
+TX,Bandera,True,True
+TX,Bastrop,True,False
+TX,Baylor,True,False
+TX,Bee,True,True
+TX,Bell,True,False
+TX,Bexar,True,True
+TX,Blanco,True,True
+TX,Borden,True,True
+TX,Bosque,True,True
+TX,Bowie,True,True
+TX,Brazoria,True,True
+TX,Brazos,True,True
+TX,Brewster,True,False
+TX,Briscoe,True,True
+TX,Brooks,True,True
+TX,Brown,True,True
+TX,Burleson,True,True
+TX,Burnet,False,True
+TX,Caldwell,True,False
+TX,Calhoun,True,False
+TX,Callahan,False,True
+TX,Cameron,True,True
+TX,Camp,True,False
+TX,Carson,True,False
+TX,Cass,True,True
+TX,Castro,True,False
+TX,Chambers,True,True
+TX,Cherokee,True,False
+TX,Childress,True,False
+TX,Clay,True,True
+TX,Cochran,True,True
+TX,Coke,True,True
+TX,Coleman,True,True
+TX,Collingsworth,True,False
+TX,Colorado,True,False
+TX,Comal,False,True
+TX,Comanche,True,True
+TX,Concho,True,True
+TX,Cooke,True,False
+TX,Coryell,True,False
+TX,Cottle,False,True
+TX,Crane,True,False
+TX,Crockett,False,True
+TX,Crosby,True,True
+TX,Culberson,True,True
+TX,Dallam,True,False
+TX,Dallas,True,True
+TX,Dawson,True,False
+TX,Deaf Smith,True,False
+TX,Delta,False,True
+TX,Denton,True,True
+TX,Dewitt,True,False
+TX,Dickens,True,True
+TX,Dimmit,True,True
+TX,Donley,True,True
+TX,Duval,True,True
+TX,Eastland,True,True
+TX,Ector,True,False
+TX,Edwards,True,True
+TX,El Paso,True,True
+TX,Ellis,True,True
+TX,Erath,True,False
+TX,Falls,True,True
+TX,Fannin,True,True
+TX,Fayette,True,True
+TX,Fisher,True,True
+TX,Floyd,True,False
+TX,Foard,True,True
+TX,Fort Bend,True,True
+TX,Franklin,True,True
+TX,Freestone,True,True
+TX,Frio,True,True
+TX,Gaines,True,False
+TX,Galveston,True,True
+TX,Garza,True,True
+TX,Gillespie,False,True
+TX,Glasscock,True,False
+TX,Goliad,True,True
+TX,Gonzales,True,True
+TX,Gray,True,True
+TX,Grayson,False,True
+TX,Gregg,True,True
+TX,Grimes,True,True
+TX,Guadalupe,False,True
+TX,Hale,True,True
+TX,Hall,True,True
+TX,Hamilton,True,True
+TX,Hansford,True,False
+TX,Hardeman,False,True
+TX,Hardin,True,False
+TX,Harris,True,True
+TX,Harrison,True,True
+TX,Hartley,True,False
+TX,Haskell,True,True
+TX,Henderson,True,False
+TX,Hidalgo,True,True
+TX,Hill,True,True
+TX,Hockley,True,True
+TX,Hopkins,True,True
+TX,Houston,True,True
+TX,Howard,True,False
+TX,Hudspeth,True,True
+TX,Hunt,True,True
+TX,Hutchinson,True,False
+TX,Irion,True,True
+TX,Jack,True,False
+TX,Jackson,True,False
+TX,Jasper,True,True
+TX,Jeff Davis,False,True
+TX,Jefferson,True,True
+TX,Jim Hogg,True,True
+TX,Jim Wells,True,True
+TX,Jones,True,True
+TX,Karnes,True,True
+TX,Kenedy,True,True
+TX,Kent,True,True
+TX,Kerr,False,True
+TX,Kimble,True,True
+TX,King,True,False
+TX,Kinney,True,True
+TX,Kleberg,True,False
+TX,Knox,True,True
+TX,La Salle,True,True
+TX,Lamar,True,False
+TX,Lamb,True,True
+TX,Lampasas,True,False
+TX,Lavaca,True,True
+TX,Lee,True,True
+TX,Leon,True,True
+TX,Liberty,True,True
+TX,Limestone,True,True
+TX,Lipscomb,True,False
+TX,Live Oak,True,True
+TX,Llano,True,True
+TX,Loving,True,False
+TX,Lubbock,True,True
+TX,Lynn,True,True
+TX,Madison,True,True
+TX,Marion,True,True
+TX,Martin,True,False
+TX,Mason,True,True
+TX,Matagorda,True,True
+TX,Maverick,True,True
+TX,Mcculloch,True,True
+TX,Mclennan,True,True
+TX,Mcmullen,True,True
+TX,Menard,True,False
+TX,Midland,True,True
+TX,Milam,True,True
+TX,Mills,False,True
+TX,Montague,True,True
+TX,Montgomery,True,True
+TX,Moore,True,False
+TX,Morris,True,True
+TX,Motley,True,True
+TX,Nacogdoches,True,True
+TX,Navarro,True,False
+TX,Newton,True,True
+TX,Nolan,True,False
+TX,Nueces,True,True
+TX,Ochiltree,True,False
+TX,Oldham,True,True
+TX,Orange,True,True
+TX,Palo Pinto,True,True
+TX,Panola,False,True
+TX,Parker,True,False
+TX,Parmer,True,True
+TX,Pecos,True,True
+TX,Polk,True,True
+TX,Potter,True,False
+TX,Presidio,True,True
+TX,Rains,True,True
+TX,Randall,True,True
+TX,Reagan,True,False
+TX,Real,True,True
+TX,Red River,False,True
+TX,Reeves,True,False
+TX,Refugio,True,True
+TX,Roberts,True,False
+TX,Robertson,True,True
+TX,Runnels,True,True
+TX,Rusk,True,True
+TX,Sabine,True,True
+TX,San Augustine,True,True
+TX,San Jacinto,True,True
+TX,San Patricio,True,False
+TX,San Saba,True,True
+TX,Schleicher,True,False
+TX,Scurry,True,False
+TX,Shackelford,True,True
+TX,Shelby,True,True
+TX,Sherman,True,False
+TX,Smith,True,True
+TX,Starr,True,True
+TX,Stephens,True,True
+TX,Sterling,True,False
+TX,Stonewall,True,True
+TX,Sutton,True,False
+TX,Swisher,True,True
+TX,Tarrant,True,True
+TX,Taylor,True,False
+TX,Terrell,True,True
+TX,Terry,True,False
+TX,Throckmorton,True,False
+TX,Titus,True,False
+TX,Tom Green,True,True
+TX,Travis,True,True
+TX,Trinity,True,True
+TX,Tyler,True,True
+TX,Upshur,True,True
+TX,Upton,True,True
+TX,Uvalde,True,True
+TX,Val Verde,True,True
+TX,Van Zandt,True,True
+TX,Victoria,True,False
+TX,Walker,True,False
+TX,Waller,False,True
+TX,Ward,True,False
+TX,Webb,True,True
+TX,Wharton,True,False
+TX,Wheeler,True,False
+TX,Wichita,True,True
+TX,Willacy,True,True
+TX,Williamson,True,True
+TX,Wilson,True,False
+TX,Winkler,True,False
+TX,Wise,True,False
+TX,Wood,True,True
+TX,Young,True,False
+TX,Zapata,True,True
+TX,Zavala,True,True
+UT,Box Elder,True,False
+UT,Cache,True,False
+UT,Carbon,True,True
+UT,Daggett,True,True
+UT,Davis,True,True
+UT,Duchesne,True,False
+UT,Emery,True,True
+UT,Garfield,True,True
+UT,Grand,True,True
+UT,Iron,True,False
+UT,Juab,False,True
+UT,Kane,True,True
+UT,Millard,True,False
+UT,Morgan,True,False
+UT,Piute,True,True
+UT,Rich,False,True
+UT,Salt Lake,True,True
+UT,San Juan,True,True
+UT,Sanpete,True,True
+UT,Sevier,True,True
+UT,Tooele,True,False
+UT,Uintah,True,True
+UT,Utah,True,True
+UT,Washington,True,True
+UT,Wayne,True,True
+UT,Weber,True,True
+VA,Accomack,True,True
+VA,Albemarle,False,True
+VA,Alexandria City,True,True
+VA,Alleghany,True,True
+VA,Amelia,True,True
+VA,Amherst,True,True
+VA,Appomattox,True,True
+VA,Arlington,True,True
+VA,Augusta,True,True
+VA,Bath,True,True
+VA,Bedford,True,True
+VA,Bland,True,True
+VA,Botetourt,True,True
+VA,Bristol City,True,True
+VA,Brunswick,True,True
+VA,Buchanan,True,True
+VA,Buckingham,True,True
+VA,Buena Vista City,True,True
+VA,Campbell,True,False
+VA,Caroline,True,True
+VA,Carroll,True,True
+VA,Charles City,True,True
+VA,Charlotte,True,True
+VA,Charlottesville City,False,True
+VA,Chesapeake City,True,True
+VA,Chesterfield,False,True
+VA,Clarke,False,True
+VA,Covington City,True,True
+VA,Craig,True,True
+VA,Culpeper,True,True
+VA,Cumberland,True,True
+VA,Danville City,True,True
+VA,Dickenson,True,True
+VA,Dinwiddie,False,True
+VA,Emporia City,True,True
+VA,Essex,True,True
+VA,Fairfax,True,True
+VA,Fauquier,False,True
+VA,Floyd,True,True
+VA,Fluvanna,True,True
+VA,Franklin,True,True
+VA,Franklin City,True,True
+VA,Frederick,True,True
+VA,Fredericksburg City,False,True
+VA,Galax City,True,False
+VA,Giles,True,True
+VA,Gloucester,True,False
+VA,Goochland,False,True
+VA,Grayson,True,True
+VA,Greene,False,True
+VA,Greensville,True,True
+VA,Halifax,True,True
+VA,Hampton City,True,True
+VA,Harrisonburg City,True,True
+VA,Henrico,False,True
+VA,Henry,True,True
+VA,Highland,True,True
+VA,Hopewell City,True,True
+VA,Isle Of Wight,False,True
+VA,James City,True,True
+VA,King And Queen,True,True
+VA,King George,True,True
+VA,King William,True,True
+VA,Lancaster,True,True
+VA,Lee,True,True
+VA,Lexington City,True,True
+VA,Loudoun,True,True
+VA,Louisa,True,True
+VA,Lunenburg,True,True
+VA,Lynchburg City,True,True
+VA,Madison,False,True
+VA,Manassas City,True,True
+VA,Manassas Park City,True,True
+VA,Martinsville City,True,True
+VA,Mathews,True,True
+VA,Mecklenburg,True,True
+VA,Middlesex,True,True
+VA,Montgomery,True,True
+VA,Nelson,True,True
+VA,New Kent,False,True
+VA,Newport News City,True,True
+VA,Norfolk City,True,True
+VA,Northampton,True,True
+VA,Northumberland,True,True
+VA,Norton City,True,True
+VA,Nottoway,True,True
+VA,Page,True,True
+VA,Patrick,True,True
+VA,Petersburg City,True,True
+VA,Pittsylvania,True,True
+VA,Portsmouth City,True,True
+VA,Powhatan,True,True
+VA,Prince Edward,True,True
+VA,Prince George,True,False
+VA,Prince William,True,True
+VA,Pulaski,True,True
+VA,Radford City,True,True
+VA,Rappahannock,True,True
+VA,Richmond,True,True
+VA,Richmond City,True,True
+VA,Roanoke City,True,True
+VA,Rockbridge,True,True
+VA,Rockingham,True,False
+VA,Russell,True,True
+VA,Scott,True,True
+VA,Shenandoah,True,True
+VA,Smyth,True,True
+VA,Southampton,True,True
+VA,Spotsylvania,False,True
+VA,Stafford,True,False
+VA,Staunton City,False,True
+VA,Suffolk City,False,True
+VA,Surry,True,True
+VA,Sussex,True,True
+VA,Tazewell,True,True
+VA,Virginia Beach City,False,True
+VA,Warren,True,False
+VA,Washington,True,True
+VA,Waynesboro City,False,True
+VA,Westmoreland,True,True
+VA,Williamsburg City,True,True
+VA,Winchester City,True,True
+VA,Wise,True,True
+VA,Wythe,True,True
+VA,York,False,True
+VI,St. Croix,True,True
+VI,St. John,True,True
+VI,St. Thomas,True,True
+VT,Addison,True,True
+VT,Bennington,True,True
+VT,Caledonia,True,True
+VT,Chittenden,True,True
+VT,Essex,True,True
+VT,Franklin,True,True
+VT,Grand Isle,True,True
+VT,Lamoille,True,True
+VT,Orange,True,True
+VT,Orleans,False,True
+VT,Rutland,True,True
+VT,Washington,True,True
+VT,Windham,False,True
+VT,Windsor,True,True
+WA,Adams,True,True
+WA,Asotin,True,True
+WA,Benton,True,False
+WA,Chelan,True,False
+WA,Clallam,True,True
+WA,Clark,False,True
+WA,Columbia,True,True
+WA,Cowlitz,True,True
+WA,Douglas,True,True
+WA,Ferry,True,True
+WA,Franklin,True,True
+WA,Garfield,True,True
+WA,Grant,True,True
+WA,Grays Harbor,True,True
+WA,Island,True,True
+WA,Jefferson,True,False
+WA,King,True,True
+WA,Kitsap,True,True
+WA,Kittitas,True,True
+WA,Klickitat,True,True
+WA,Lewis,True,True
+WA,Lincoln,True,True
+WA,Mason,True,True
+WA,Okanogan,True,True
+WA,Pacific,True,True
+WA,Pend Oreille,True,True
+WA,Pierce,True,True
+WA,San Juan,True,True
+WA,Skagit,True,False
+WA,Skamania,True,False
+WA,Snohomish,True,True
+WA,Spokane,True,True
+WA,Stevens,True,True
+WA,Thurston,True,True
+WA,Wahkiakum,True,False
+WA,Walla Walla,True,False
+WA,Whatcom,True,True
+WA,Whitman,True,False
+WA,Yakima,True,True
+WI,Adams,True,True
+WI,Ashland,True,False
+WI,Barron,True,True
+WI,Bayfield,True,True
+WI,Brown,True,True
+WI,Buffalo,True,True
+WI,Burnett,True,True
+WI,Chippewa,True,True
+WI,Clark,True,True
+WI,Columbia,True,False
+WI,Crawford,True,True
+WI,Dane,True,True
+WI,Dodge,True,False
+WI,Door,False,True
+WI,Douglas,False,True
+WI,Dunn,False,True
+WI,Eau Claire,False,True
+WI,Florence,True,True
+WI,Fond Du Lac,False,True
+WI,Forest,True,True
+WI,Grant,True,True
+WI,Iowa,True,True
+WI,Iron,True,True
+WI,Jackson,True,True
+WI,Jefferson,True,True
+WI,Juneau,True,True
+WI,Kenosha,True,True
+WI,La Crosse,True,False
+WI,Lafayette,True,True
+WI,Langlade,True,True
+WI,Marathon,True,True
+WI,Marinette,False,True
+WI,Marquette,True,True
+WI,Menominee,True,True
+WI,Milwaukee,True,True
+WI,Monroe,True,True
+WI,Oconto,True,True
+WI,Oneida,True,False
+WI,Outagamie,True,False
+WI,Pepin,True,True
+WI,Polk,True,True
+WI,Portage,True,True
+WI,Price,True,True
+WI,Racine,True,True
+WI,Richland,True,False
+WI,Rock,True,True
+WI,Rusk,True,True
+WI,Sauk,True,False
+WI,Sawyer,True,True
+WI,Shawano,True,True
+WI,Sheboygan,True,True
+WI,St. Croix,True,True
+WI,Taylor,True,True
+WI,Trempealeau,False,True
+WI,Vernon,True,True
+WI,Vilas,True,True
+WI,Walworth,True,True
+WI,Washburn,True,True
+WI,Waukesha,False,True
+WI,Waupaca,True,True
+WI,Waushara,True,True
+WI,Winnebago,False,True
+WI,Wood,True,True
+WV,Barbour,True,True
+WV,Berkeley,True,False
+WV,Boone,True,True
+WV,Braxton,True,True
+WV,Brooke,True,False
+WV,Cabell,True,True
+WV,Calhoun,True,True
+WV,Clay,True,True
+WV,Doddridge,True,True
+WV,Fayette,True,True
+WV,Gilmer,True,True
+WV,Grant,True,True
+WV,Greenbrier,True,True
+WV,Hampshire,True,True
+WV,Hancock,True,True
+WV,Hardy,True,True
+WV,Harrison,True,True
+WV,Jackson,True,True
+WV,Jefferson,True,True
+WV,Kanawha,True,True
+WV,Lewis,True,True
+WV,Lincoln,True,True
+WV,Logan,True,True
+WV,Marion,True,True
+WV,Marshall,True,True
+WV,Mason,True,True
+WV,Mcdowell,True,True
+WV,Mercer,True,True
+WV,Mineral,True,True
+WV,Mingo,True,True
+WV,Monongalia,True,True
+WV,Monroe,True,True
+WV,Morgan,True,True
+WV,Nicholas,True,True
+WV,Ohio,True,True
+WV,Pendleton,True,True
+WV,Pleasants,True,True
+WV,Pocahontas,True,True
+WV,Preston,True,True
+WV,Putnam,True,True
+WV,Raleigh,True,True
+WV,Randolph,True,True
+WV,Ritchie,True,True
+WV,Roane,True,True
+WV,Summers,True,True
+WV,Taylor,True,True
+WV,Tucker,True,True
+WV,Tyler,True,True
+WV,Upshur,True,True
+WV,Wayne,True,True
+WV,Webster,True,True
+WV,Wetzel,True,True
+WV,Wirt,True,True
+WV,Wood,True,False
+WV,Wyoming,True,True
+WY,Albany,True,True
+WY,Big Horn,True,True
+WY,Carbon,True,True
+WY,Converse,True,False
+WY,Crook,True,True
+WY,Fremont,True,True
+WY,Goshen,True,True
+WY,Hot Springs,True,True
+WY,Johnson,True,False
+WY,Laramie,True,True
+WY,Lincoln,True,False
+WY,Natrona,True,True
+WY,Niobrara,True,True
+WY,Park,False,True
+WY,Platte,True,False
+WY,Sheridan,False,True
+WY,Sublette,True,True
+WY,Sweetwater,True,True
+WY,Teton,False,True
+WY,Uinta,True,False
+WY,Washakie,True,False
+WY,Weston,True,False

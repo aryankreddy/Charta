@@ -1,0 +1,98 @@
+version: "2025-11-06"
+notes: "Keyword packs for signal extraction. Case-insensitive. Simple substrings or regex."
+packs:
+  emr_vendors:
+    # canonical names first; aliases go in normalization.yaml
+    - epic
+    - athenahealth
+    - eclinicalworks
+    - nextgen
+    - advancedmd
+    - kareo
+    - veradigm
+    - modmed
+    - elation
+    - drchrono
+    - practice fusion
+    - office ally
+    - cerner
+    - meditech
+    - greenway
+  rcm_clearinghouse:
+    - waystar
+    - availity
+    - change healthcare
+    - trizetto
+    - facets
+    - 837
+    - 835
+    - x12
+    - edi
+    - remittance
+    - denial management
+    - prior authorization
+  compliance_quality:
+    - pre-bill
+    - prebill
+    - audit
+    - lcd
+    - ncd
+    - medical necessity
+    - payer policy
+    - documentation gap
+    - hcc
+    - raf
+    - hedis
+    - oig
+    - rac
+    - mac
+  coding_roles:
+    - coder
+    - coding specialist
+    - cdi
+    - coding auditor
+    - revenue integrity
+  denials_roles:
+    - denials
+    - appeals
+    - ar follow-up
+    - revenue cycle analyst
+    - rcm manager
+  segments_primary:
+    - family medicine
+    - internal medicine
+    - primary care
+    - pediatrics
+  segments_urgent:
+    - urgent care
+    - walk-in
+    - same day care
+  segments_bh:
+    - behavioral health
+    - mental health
+    - psychiatry
+    - telepsychiatry
+    - psychotherapy
+  segments_home_health:
+    - home health
+    - home care
+    - hospice
+  services_enrichers:
+    - annual wellness
+    - ccm
+    - pcm
+    - transitional care
+    - preventive screening
+    - behavioral therapy
+    - telehealth
+    - lab
+    - imaging
+stopwords:
+  - internship
+  - blog
+  - cookie
+  - privacy
+regex:
+  # helpful regexes as strings; your scraper can apply these where useful
+  cpt_code: "(?i)\\b(?:99\\d{2}|G\\d{4}|H\\d{3})\\b"
+  icd_code: "(?i)\\b[A-TV-Z][0-9][A-Z0-9](?:\\.[A-Z0-9]{1,4})?\\b"

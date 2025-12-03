@@ -1,0 +1,22 @@
+env: "local"
+flags:
+  use_places_api: false
+  capture_evidence_snippets: true
+  enable_saved_views: true
+thresholds:
+  icf_default_min: 70
+  services_breadth_signal: 10
+  review_count_signal: 200
+exports:
+  default_columns:
+    - account_name
+    - state_code
+    - segments
+    - num_locations
+    - num_clinicians_proxy
+    - emr_vendor
+    - icf_score
+    - top_drivers
+    - narrative_snippet
+    - website
+    - phone

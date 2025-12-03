@@ -1,0 +1,20 @@
+# Exclude large data files and directories
+data/
+venv/
+.venv/
+workers/
+scripts/
+archive_slop/
+docs/
+api/
+v2_core/
+config/
+
+# Exclude large CSV files
+*.csv
+index_2024.csv
+tree*.txt
+my_tree_structure*.txt
+
+# Keep only the web directory for deployment
+# (web/public/data/clinics.json is the only data file needed)

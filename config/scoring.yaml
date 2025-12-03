@@ -1,0 +1,76 @@
+model_version: "icf_v1.0"
+icf:
+  weights:
+    segment_fit: 25
+    scale_velocity: 20
+    emr_friction: 15
+    coding_complexity: 15
+    denial_pressure: 15
+    roi_readiness: 10
+
+rules:
+  segment_fit:
+    primary_care_base: 25
+    behavioral_health_base: 23
+    home_health_base: 22
+    urgent_care_base: 20
+    other_specialty_base: 10
+    modifiers:
+      multi_location_bonus_threshold: 5
+      multi_location_bonus: 2
+      medicaid_bonus_bh: 2
+      medicare_bonus_hh: 3
+      review_count_uc_threshold: 200
+      review_count_uc_bonus: 2
+
+  scale_velocity:
+    # log-scale parameters; tune as needed
+    loc_points_max: 8
+    prov_points_max: 8
+    coder_hiring_bonus: 2
+    denials_hiring_bonus: 2
+
+  emr_friction:
+    common_vendors:
+      - epic
+      - athenahealth
+      - eclinicalworks
+      - nextgen
+      - advancedmd
+      - kareo
+      - modmed
+      - elation
+      - drchrono
+      - practice_fusion
+      - office_ally
+    score_common: 15
+    score_unknown: 8
+    score_exotic: 4
+    low_confidence_penalty_pct: 25
+
+  coding_complexity:
+    services_breadth_threshold: 10
+    services_breadth_points: 6
+    coder_hiring_points: 4
+    prebill_mention_points: 3
+    bh_hh_bonus_points: 2
+    max_points: 15
+
+  denial_pressure:
+    state_prior_points:
+      high: 10
+      med: 6
+      low: 3
+    denials_hiring_bonus: 3
+    prebill_bonus: 2
+    max_points: 15
+
+  roi_readiness:
+    aco_points: 4
+    prebill_points: 2
+    quality_terms_points: 2
+    conference_presence_points: 2
+    max_points: 10
+
+confidence:
+  low_axis_downweight_pct: 20

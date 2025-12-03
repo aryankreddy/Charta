@@ -1,0 +1,37 @@
+
+__pycache__/
+
+*.pyc
+
+.venv/
+
+env/
+
+web/node_modules/
+
+web/.next/
+
+web/.turbo/
+
+
+web/.cache/
+
+dist/
+
+v
+*.log
+
+# data/raw/
+
+data/curated/
+
+# *.csv
+
+# OS cruft
+
+.DS_Store
+
+data/raw/*
+data/curated/*
+.env
+.vercel

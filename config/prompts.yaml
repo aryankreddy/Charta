@@ -1,0 +1,21 @@
+version: "2025-11-06"
+email_subjects:
+  behavioral_health:
+    - "Reducing BH denials with pre-bill AI (quick 15?)"
+    - "BH teams are seeing +8–15% RVU with pre-bill reviews"
+  primary_care:
+    - "Primary care RVU lift without extra headcount"
+  home_health:
+    - "Home health: audit 100% of charts pre-bill"
+
+snippets:
+  two_liner:
+    - |
+      We found {brand_name} in {state} with {num_locations}+ locations on {emr_vendor}. Given your {segment} profile and current signals ({driver1}, {driver2}), similar clinics are seeing ~{rvu_low}–{rvu_high}% RVU uplift by moving chart review to pre-bill with Charta.
+    - |
+      Your footprint suggests scaling pain in documentation and denials ({driver1}). Charta reviews 100% of charts pre-bill, flags LCD/NCD gaps, and automates corrective coding — typically unlocking ~{rvu_low}–{rvu_high}% per-visit revenue.
+
+placeholders:
+  defaults:
+    rvu_low: 8
+    rvu_high: 15

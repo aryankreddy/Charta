@@ -1,0 +1,10 @@
+PyYAML
+requests
+pandas
+python-slugify
+duckdb
+beautifulsoup4
+fastapi
+uvicorn[standard]
+fuzzywuzzy
+python-Levenshtein

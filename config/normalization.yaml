@@ -1,0 +1,58 @@
+version: "2025-11-06"
+
+emr_normalization:
+  # map aliases -> canonical
+  epic:
+    - "epic systems"
+    - "hyperspace"
+  athenahealth:
+    - "athena"
+    - "athena one"
+  eclinicalworks: ["ecw", "e-clinical works", "e clinical works"]
+  nextgen: ["nextgen healthcare", "ng"]
+  advancedmd: ["advanced md"]
+  kareo: ["tebra", "kareo/t
+ebra", "kareo health"]
+  veradigm: ["allscripts", "allscripts/professional"]
+  modmed: ["modernizing medicine", "mod med"]
+  elation: ["elation health"]
+  drchrono: ["dr chrono"]
+  practice_fusion: ["practicefusion"]
+  office_ally: ["ally ehr"]
+  cerner: ["oracle health", "cerner millennium"]
+  meditech: ["meditech expanse"]
+  greenway: ["greenway health", "intergy"]
+  unknown: []
+
+segment_normalization:
+  primary_care:
+    - "family medicine"
+    - "internal medicine"
+    - "pediatrics"
+    - "primary care"
+  behavioral_health:
+    - "behavioral health"
+    - "mental health"
+    - "psychiatry"
+    - "psychology"
+  home_health:
+    - "home health"
+    - "home care"
+    - "hospice"
+  urgent_care:
+    - "urgent care"
+    - "walk-in"
+    - "immediate care"
+
+state_denial_prior:
+  # simple heuristic priors; adjust over time
+  high:  ["TX","FL","NY","CA"]
+  med:   ["AZ","GA","NC","PA","IL","MI","OH","NJ","MA","WA","CO"]
+  low:   ["ALL_OTHERS"]
+
+geo:
+  usps_to_name:
+    TX: "Texas"
+    FL: "Florida"
+    CA: "California"
+    NY: "New York"

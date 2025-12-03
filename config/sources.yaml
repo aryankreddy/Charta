@@ -1,0 +1,88 @@
+version: "2025-11-06"
+notes: "Public sources for Charta Clinic Finder."
+
+defaults:
+  user_agent: "ChartaFinderBot/0.1 (+contact: public-data@localhost)"
+  throttle_seconds: 1.0
+  retry:
+    attempts: 3
+    backoff_seconds: 1.5
+  robots_txt: true
+  no_auth: true
+  no_phi: true
+  attribution_required: true
+
+bulk_sources:
+  # --- Local files
+  npi_registry:
+    kind: "csv"
+    url: "data/raw/npi_registry/npidata_pfile_20050523-20251012.csv"
+    cadence: "monthly"
+    description: "NPPES organizations only (Entity Type Code = 2)."
+
+  hrsa_fqhc_sites:
+    kind: "csv"
+    url: "data/raw/hrsa/Health_Center_Service_Delivery_and_LookAlike_Sites (1).csv"
+    cadence: "quarterly"
+    description: "HRSA FQHC & Look-Alike sites."
+
+  cost_reports_hospitals:
+    kind: "multi_txt"
+    files:
+      rpt: "data/raw/cost_reports_hospitals/HOSPITAL-2010_RPT.txt"
+      nmrc: "data/raw/cost_reports_hospitals/HOSPITAL-2010_NMRC.txt"
+      alphnmrc: "data/raw/cost_reports_hospitals/HOSPITAL-2010_ALPHNMRC.txt"
+    cadence: "annual"
+    description: "Hospital cost reports (2552-10)."
+
+  cost_reports_fqhc:
+    kind: "multi_txt"
+    files:
+      rpt: "data/raw/cost_reports_fqhc/FQHC14_RPT.txt"
+      nmrc: "data/raw/cost_reports_fqhc/FQHC14_NMRC.txt"
+      alphnmrc: "data/raw/cost_reports_fqhc/FQHC14_ALPHNMRC.txt"
+    cadence: "annual"
+    description: "FQHC cost reports (224-14)."
+
+  cost_reports_rhc:
+    kind: "multi_txt"
+    files:
+      rpt: "data/raw/cost_reports_rhc/RHC17_RPT.txt"
+      nmrc: "data/raw/cost_reports_rhc/RHC17_NMRC.txt"
+      alphnmrc: "data/raw/cost_reports_rhc/RHC17_ALPHNMRC.txt"
+    cadence: "annual"
+    description: "Rural Health Clinic cost reports (222-17)."
+
+  cost_reports_hha_2025:
+    kind: "multi_txt"
+    files:
+      rpt: "data/raw/cost_reports_hha_2025/HHA2020_RPT.txt"
+      nmrc: "data/raw/cost_reports_hha_2025/HHA2020_NMRC.txt"
+      alphnmrc: "data/raw/cost_reports_hha_2025/HHA2020_ALPHNMRC.txt"
+    cadence: "annual"
+    description: "Home Health Agency cost reports (1728-20)."
+
+  # --- CMS APIs
+  cms_pecos_enrollment_api:
+    kind: "api_json"
+    url: "https://data.cms.gov/data-api/v1/dataset/2457ea29-fc82-48b0-86ec-3b0755de7515/data"
+    params: { pageSize: 50000, page: 1 }
+    pagination: { strategy: "page_number", page_param: "page", size_param: "pageSize" }
+
+  cms_aco_participants_api:
+    kind: "api_json"
+    url: "https://data.cms.gov/data-api/v1/dataset/9767cb68-8ea9-4f0b-8179-9431abc89f11/data"
+    params: { pageSize: 50000, page: 1 }
+    pagination: { strategy: "page_number", page_param: "page", size_param: "pageSize" }
+
+  cms_physician_utilization_api:
+    kind: "api_json"
+    url: "https://data.cms.gov/data-api/v1/dataset/92396110-2aed-4d63-a6a2-5d6207d46a29/data"
+    params: { pageSize: 50000, page: 1 }
+    pagination: { strategy: "page_number", page_param: "page", size_param: "pageSize" }
+
+meta_helpers:
+  hcris_facility_numbering:
+    url: "data/raw/cost_reports_fqhc/HCRIS_FACILITY_NUMBERING.csv"
+  hcris_state_codes:
+    url: "data/raw/cost_reports_fqhc/HCRIS_STATE_CODES.csv"
